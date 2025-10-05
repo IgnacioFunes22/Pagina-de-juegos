@@ -1,59 +1,3 @@
-<<<<<<< HEAD
-*{
-    box-sizing: border-box;
-}
-
-body{
-    background-color: #050a30;
-}
-
-.wrapper{
-    min-height: 100vh;
-    padding: 15px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 15px;
-    font-size: 20px;
-    font-family: sans-serif;
-}
-
-main{
-    flex: 6;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 15px;
-}
-
-article, aside, .div{
-    flex: 1;
-    justify-content: center;
-    align-items: center;
-    border: 5px solid rgb(236, 240, 22);
-}
-
-.div{
-    display: flex;
-}
-
-#imagen{
-    align-items: center;
-}
-
-.mainContent{
-    background: rgb(38, 38, 187);
-    max-width: 1240px;
-    margin: 0px auto;
-    transform: translateY(2em);
-    border-radius: 0.75rem;
-    box-shadow: rgba(243, 243, 245, 0.15) 0px 4px 16px 0px;
-    padding: 2rem 3rem;
-}
-
-footer{
-    height: 800px;
-=======
 *{
     box-sizing: border-box;
 }
@@ -225,5 +169,4 @@ footer{
     padding: 0 50px 0;
     margin: 50px 10px 0 10px;
     border-radius: 0.75rem;
->>>>>>> 0b33f85 (Pagina de Juego vr 1.0)
 }
