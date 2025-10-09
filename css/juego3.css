@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: wheat;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid rgba(236, 240, 22, 0);
+    background: rgba(51, 51, 238, 0.25);
+    padding: 0 50px 0;
+    margin: 0 10px 0;
+    border-radius: 0.75rem;
+}
+
+.wrapper{
+    min-height: 100vh;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+main{
+    flex: 6;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+article, aside, .div{
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid rgba(236, 240, 22, 0);
+}
+
+#imagen{
+    align-items: center;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+}
+
+.section1{
+    display: flex;
+}
+.section1-1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 60%;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+}
+
+.section2{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+}
+
+.section2 a{
+    padding-left: 10px;
+}
+
+.mainContent{
+    display: flex;
+    flex-direction: column;
+    background: rgba(51, 51, 238, 0.25);
+    max-width: 1400px;
+    margin: 0px auto;
+    transform: translateY(2em);
+    border-radius: 0.75rem;
+    box-shadow: rgba(243, 243, 245, 0.15) 0px 4px 16px 0px;
+    padding: 1rem;
+}
+
+.Slider{
+    display: flex;
+    aspect-ratio: 16/9;
+    max-width: 550px;
+    overflow-x: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
+    border-radius: 0.5rem;
+    margin: 10px;
+}
+
+.Slider img {
+    flex: 1 0 100% ;
+    scroll-snap-align: start;
+    object-fit: cover;
+}
+
+
+.Slider-nav{
+    display: flex;
+    justify-content: left;
+    overflow-x: auto;
+    border: 5px solid rgba(236, 240, 22, 0);
+    margin: auto;
+    max-width: 550px;
+    border-radius: 0.5rem;
+    background-color: white;
+}
+
+.Slider-nav a {
+    transition: opacity ease 250ms;
+}
+
+.Celda{
+    margin-top: 2px;
+    padding-left: 10px;
+    flex-shrink: 0;
+}
+
+.visual{
+    background-position: center;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #020202;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+#Img1{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000033131/dbc8c55a21688b446a5c57711b726956483a14ef8c5ddb861f897c0595ccb6b5);
+    background-size: cover;
+}
+
+#Img2{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000033131/2a8ec2edcb7e498d599f21aa937baa5c39ff14a8b0d1f489c685b3a6eb52c37b);
+    background-size: cover;
+}
+
+#Img3{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000033131/93004a4a44bcf83c5b6a62b0f5a4c974b1e44f7d03d2299646f5ff4f6fac34fd);
+    background-size: cover;
+}
+
+#Img4{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000033131/a3a4b5fe7e9a1ea2f3fe2b75708413273a1ce215a41ab9ff956d2595c4cf9af2);
+    background-size: cover;
+}
+
+#Img5{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000033131/5521882ad669c26da844b4668eb7e9c754d157211d5b992b549b0fb9592e91fc);
+    background-size: cover;
+}
+
+#Img6{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000033131/bfb04be87f9f727e319a75857b4cbb894d288c90c6ecb0a5c4003b30b3dcf9de);
+    background-size: cover;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(51, 51, 238, 0.25);
+    border: 5px solid rgba(236, 240, 22, 0);
+    padding: 0 50px 0;
+    margin: 50px 10px 0 10px;
+    border-radius: 0.75rem;
+}

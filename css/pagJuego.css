@@ -1,0 +1,176 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: wheat;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    border: 5px solid rgba(236, 240, 22, 0);
+    background: rgba(51, 51, 238, 0.25);
+    padding: 0 50px 0;
+    margin: 0 10px 0;
+    border-radius: 0.75rem;
+}
+
+.wrapper{
+    min-height: 100vh;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+main{
+    flex: 6;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+article, aside, .div{
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid rgba(236, 240, 22, 0);
+}
+
+#imagen{
+    align-items: center;
+}
+
+.encabezado{
+    display: flex;
+    justify-content: center;
+}
+
+.section1{
+    display: flex;
+}
+.section1-1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 60%;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+}
+
+.section2{
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+}
+
+.section2 a{
+    padding-left: 10px;
+}
+
+.mainContent{
+    display: flex;
+    flex-direction: column;
+    background: rgba(51, 51, 238, 0.25);
+    max-width: 1400px;
+    margin: 0px auto;
+    transform: translateY(2em);
+    border-radius: 0.75rem;
+    box-shadow: rgba(243, 243, 245, 0.15) 0px 4px 16px 0px;
+    padding: 1rem;
+}
+
+.Slider{
+    display: flex;
+    aspect-ratio: 16/9;
+    max-width: 550px;
+    overflow-x: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
+    border-radius: 0.5rem;
+    margin: 10px;
+}
+
+.Slider img {
+    flex: 1 0 100% ;
+    scroll-snap-align: start;
+    object-fit: cover;
+}
+
+
+.Slider-nav{
+    display: flex;
+    justify-content: left;
+    overflow-x: auto;
+    border: 5px solid rgba(236, 240, 22, 0);
+    margin: auto;
+    max-width: 550px;
+    border-radius: 0.5rem;
+    background-color: white;
+}
+
+.Slider-nav a {
+    transition: opacity ease 250ms;
+}
+
+.Celda{
+    margin-top: 2px;
+    padding-left: 10px;
+    flex-shrink: 0;
+}
+
+.visual{
+    background-position: center;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #020202;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+#Img1{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51);
+    background-size: cover;
+}
+
+#Img2{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617763137764-D5F6028LYPHLAP5BIK0Q/mines.jpg);
+    background-size: cover;
+}
+
+#Img3{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000003208/50162a28f3e73c7e80021d799acce991a0b051105f209565088cd254a2a986d1);
+    background-size: cover;
+}
+
+#Img4{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/208c3efdf8bf7cb5ba1f2154f5508d97af71b7853dc8e7eff302d3b1804bb178);
+    background-size: cover;
+}
+
+#Img5{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/6266f71028d118acbc56f2952106b99b8a81de0c4d80db5729db2f2d8c48b15e);
+    background-size: cover;
+}
+
+#Img6{
+    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/c9eaec86c13661401717a75546d7e6af55fa0da8b3d3e41e9d58b0c037cc7de7);
+    background-size: cover;
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(51, 51, 238, 0.25);
+    border: 5px solid rgba(236, 240, 22, 0);
+    padding: 0 50px 0;
+    margin: 50px 10px 0 10px;
+    border-radius: 0.75rem;
+}
