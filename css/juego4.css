@@ -1,15 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Quicksand:wght@500;700&display=swap');
 *{
     box-sizing: border-box;
 }
 
 body{
     background-color: wheat;
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: #2a2a2a;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size:1rem;
+    line-height: 1.6;
+    color: #2a2a2a;
+    margin-bottom: 1rem;
+}
+.logo{
+    cursor: pointer;
+}
+
+.logo img{
+    width: 250px;
+    height: auto;
+}
+.nav-links ul{
+    list-style-type: none;    
+}
+
+.nav-links li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.nav-links li:hover{
+    transform: scale(1.1);
+}
+
+.nav-links a{
+    font-size: 700;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-links li a:hover{
+    color: yellow;
 }
 
 header{
     display: flex;
     justify-content: space-between;
     border: 5px solid rgba(236, 240, 22, 0);
+    align-items: center;
     background: rgba(51, 51, 238, 0.25);
     padding: 0 50px 0;
     margin: 0 10px 0;
