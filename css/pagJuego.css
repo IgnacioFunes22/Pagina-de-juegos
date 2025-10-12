@@ -6,14 +6,53 @@ body{
     background-color: wheat;
 }
 
-header{
+footer, header{
+    background: rgba(51, 51, 238, 0.25);
+    border: 1px solid rgb(2, 2, 2, 0.5);
     display: flex;
     justify-content: space-between;
-    border: 5px solid rgba(236, 240, 22, 0);
-    background: rgba(51, 51, 238, 0.25);
+    align-items: center;
+    margin: 10px 10px 0;
     padding: 0 50px 0;
-    margin: 0 10px 0;
     border-radius: 0.75rem;
+}
+
+footer{
+    margin-top: 40px;
+}
+
+.logo{
+    cursor: pointer;
+}
+
+.logo img{
+    width: 250px;
+    height: auto;
+}
+
+.nav-links ul{
+    list-style-type: none;    
+}
+
+.nav-links li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.nav-links li:hover{
+    transform: scale(1.1);
+}
+
+.nav-links a{
+    font-size: 700;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-links li a:hover{
+    color: yellow;
 }
 
 .wrapper{
@@ -115,10 +154,6 @@ article, aside, .div{
     background-color: white;
 }
 
-.Slider-nav a {
-    transition: opacity ease 250ms;
-}
-
 .Celda{
     margin-top: 2px;
     padding-left: 10px;
@@ -134,43 +169,8 @@ article, aside, .div{
     cursor: pointer;
 }
 
-#Img1{
-    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51);
-    background-size: cover;
+.swiper-slide {
+    width: 100px;
+    height: 50px;
 }
 
-#Img2{
-    background-image: url(https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617763137764-D5F6028LYPHLAP5BIK0Q/mines.jpg);
-    background-size: cover;
-}
-
-#Img3{
-    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000003208/50162a28f3e73c7e80021d799acce991a0b051105f209565088cd254a2a986d1);
-    background-size: cover;
-}
-
-#Img4{
-    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/208c3efdf8bf7cb5ba1f2154f5508d97af71b7853dc8e7eff302d3b1804bb178);
-    background-size: cover;
-}
-
-#Img5{
-    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/6266f71028d118acbc56f2952106b99b8a81de0c4d80db5729db2f2d8c48b15e);
-    background-size: cover;
-}
-
-#Img6{
-    background-image: url(https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/c9eaec86c13661401717a75546d7e6af55fa0da8b3d3e41e9d58b0c037cc7de7);
-    background-size: cover;
-}
-
-footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background: rgba(51, 51, 238, 0.25);
-    border: 5px solid rgba(236, 240, 22, 0);
-    padding: 0 50px 0;
-    margin: 50px 10px 0 10px;
-    border-radius: 0.75rem;
-}

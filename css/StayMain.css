@@ -1,9 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Quicksand:wght@500;700&display=swap');
 *{
     box-sizing: border-box;
 }
 
 body{
     background-color: wheat;
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1,h2,h3{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+    color: #2a2a2a;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size:1rem;
+    line-height: 1.6;
+    color: #2a2a2a;
+    margin-bottom: 1rem;
 }
 
 main{
@@ -17,6 +31,8 @@ main{
     text-align: center;
 }
 
+
+
 footer, header{
     background-color: rgb(54, 148, 202, 0.25);
     border: 1px solid rgb(2, 2, 2, 0.5);
@@ -26,6 +42,38 @@ footer, header{
     margin: 10px 10px 0;
     padding: 0 50px 0;
     border-radius: 0.75rem;
+}
+.logo{
+    cursor: pointer;
+}
+
+.logo img{
+    width: 250px;
+    height: auto;
+}
+.nav-links ul{
+    list-style-type: none;    
+}
+
+.nav-links li{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.nav-links li:hover{
+    transform: scale(1.1);
+}
+
+.nav-links a{
+    font-size: 700;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+}
+
+.nav-links li a:hover{
+    color: yellow;
 }
 
 footer{
@@ -43,7 +91,7 @@ footer{
     height: 32em;
     border: 1px solid rgb(3, 3, 3, 0.5);
     margin: 15px 100px 15px 100px;
-    padding: 10px;
+    padding: 10px ;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -85,7 +133,7 @@ footer{
     height: 100%;
     padding: 0;
     margin: 10px 0;
-    color: wheat;
+    color: white;
 }
 
 #juego1{
