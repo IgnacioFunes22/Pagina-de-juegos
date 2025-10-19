@@ -11,7 +11,8 @@
     "multijugador": false,
     "rating": 8.5,
     "descripcion": "Un RPG de mundo abierto ambientado en un futuro distópico donde la tecnología y el cuerpo humano se fusionan.",
-    "etiquetas": ["open-world", "rpg", "singleplayer"]
+    "etiquetas": ["open-world", "rpg", "singleplayer"],
+    "portada" : "https://m.media-amazon.com/images/M/MV5BZWYyNDRkNzAtOTI0Ny00NDQwLWE5M2YtMWFiZDdmMDc4MmQ0XkEyXkFqcGc@._V1_.jpg"
   },
   {
     "_id": "68e6d4170510248465be83bf",
@@ -25,7 +26,8 @@
     "multijugador": true,
     "rating": 9.2,
     "descripcion": "Un juego de construcción y exploración donde los jugadores pueden crear su propio mundo a base de bloques.",
-    "etiquetas": ["sandbox", "creative", "multiplayer", "survival"]
+    "etiquetas": ["sandbox", "creative", "multiplayer", "survival"],
+    "portada" : "https://i.pinimg.com/736x/d2/45/9d/d2459de3246eb8a7d3504903d200f26c.jpg"
   },
   {
     "_id": "68e6d417e20f168bcc4e2bc7",
@@ -39,7 +41,8 @@
     "multijugador": false,
     "rating": 9.6,
     "descripcion": "Kratos debe sobrevivir en un nuevo mundo mitológico junto a su hijo Atreus, enfrentando dioses y monstruos nórdicos.",
-    "etiquetas": ["singleplayer", "action", "story-rich"]
+    "etiquetas": ["singleplayer", "action", "story-rich"],
+    "portada" : "https://uvejuegos.com/img/caratulas/67097/godofwar.jpg"
   },
   {
     "_id": "68e6d41736d3c861f1538809",
@@ -53,7 +56,8 @@
     "multijugador": false,
     "rating": 9.4,
     "descripcion": "Una aventura subterránea en un vasto mundo lleno de insectos, secretos y desafíos de plataformas y combate.",
-    "etiquetas": ["indie", "metroidvania", "action", "exploration"]
+    "etiquetas": ["indie", "metroidvania", "action", "exploration"],
+    "portada" : "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Hollow_Knight_first_cover_art.webp/274px-Hollow_Knight_first_cover_art.webp.png"
   },
   {
     "_id": "68e6d4178a293d342a609f55",
@@ -67,7 +71,8 @@
     "multijugador": true,
     "rating": 8.8,
     "descripcion": "Juego multijugador de disparos y construcción donde 100 jugadores compiten para ser el último en pie.",
-    "etiquetas": ["battle-royale", "multiplayer", "shooter", "free-to-play"]
+    "etiquetas": ["battle-royale", "multiplayer", "shooter", "free-to-play"],
+    "portada" : "https://i.pinimg.com/736x/8f/16/e9/8f16e97ab5cc7873debc229c7a527a07.jpg"
   },
   {
     "_id": "68e6d4170e657f5aacde544f",
@@ -81,7 +86,8 @@
     "multijugador": true,
     "rating": 9.8,
     "descripcion": "Una épica historia del Viejo Oeste donde Arthur Morgan debe sobrevivir mientras el mundo moderno se impone.",
-    "etiquetas": ["open-world", "story-rich", "adventure", "multiplayer"]
+    "etiquetas": ["open-world", "story-rich", "adventure", "multiplayer"],
+    "portada" : "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
   },
   {
     "_id": "68e6d417f447da4b4142f45c",
@@ -95,7 +101,8 @@
     "multijugador": true,
     "rating": 7.8,
     "descripcion": "La nueva entrega del simulador de fútbol con mejoras en IA, animaciones y modo carrera.",
-    "etiquetas": ["sports", "multiplayer", "realistic", "competitive"]
+    "etiquetas": ["sports", "multiplayer", "realistic", "competitive"],
+    "portada" : "https://www.clarin.com/img/2024/07/17/ORRRfEnDj_2000x1500__1.jpg"
   },
   {
     "_id": "68e6d4175634a6704490a325",
@@ -109,7 +116,8 @@
     "multijugador": false,
     "rating": 9.7,
     "descripcion": "La continuación de la historia de Kratos y Atreus en el fin del mundo nórdico: el Ragnarök.",
-    "etiquetas": ["singleplayer", "action", "story-rich", "narrative"]
+    "etiquetas": ["singleplayer", "action", "story-rich", "narrative"],
+    "portada" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmHlaYwsOI5Bdtt7HY5TzBP4RCBLsB9sN2w&s"
   },
   {
     "_id": "68e6d4171bae75916d4d053e",
@@ -123,7 +131,8 @@
     "multijugador": true,
     "rating": 9.8,
     "descripcion": "Un vasto mundo abierto creado por Hidetaka Miyazaki y George R. R. Martin, lleno de secretos y desafíos.",
-    "etiquetas": ["open-world", "soulslike", "rpg", "multiplayer"]
+    "etiquetas": ["open-world", "soulslike", "rpg", "multiplayer"],
+    "portada" : "https://cdn-images.dzcdn.net/images/cover/8b582bebc9f1fd2ac0a7ced8271fc68f/0x1900-000000-80-0-0.jpg"
   },
   {
     "_id": "68e6d41759e75ccff0003092",
@@ -137,6 +146,7 @@
     "multijugador": false,
     "rating": 9.9,
     "descripcion": "La esperada secuela de Breath of the Wild, donde Link explora tanto la superficie como los cielos de Hyrule.",
-    "etiquetas": ["adventure", "open-world", "puzzle", "exploration"]
+    "etiquetas": ["adventure", "open-world", "puzzle", "exploration"],
+    "portada" : "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg"
   }
 ]
