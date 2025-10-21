@@ -12,13 +12,27 @@ function getData(){
 }
 
 function printData(data){
-    const itemContainer = document.createElement('div');
-    itemContainer.className = 'contenedor';
+    const long = data.length;
 
-    data.forEach((item) => {
-        itemContainer.innerHTML += createDomElement(item);
-        items.append(itemContainer);
-    });
+    crearBotonesJuegos(data.slice(0, 10));
+
+    crearBotones(data, long);
+}
+
+function crearBotonesJuegos(data) {
+    try{
+        console.log(data)
+        const itemContainer = document.createElement('div');
+        itemContainer.className = 'contenedor';
+        itemContainer.id = "contenedor";
+
+        data.forEach((item) => {
+            itemContainer.innerHTML += createDomElement(item);
+            items.append(itemContainer);
+        });
+    }catch{
+        console.log("Fatal Error", data);
+    }
 }
 
 function createDomElement(item){
@@ -36,4 +50,29 @@ function createDomElement(item){
 function enlazarApagina(item) {
    window.open(`paginaJuego.html?item=${item}`, "_self");
 }
+
+function crearBotones(data, long){
+    const cantBotones = Math.floor(long / 10);
+    var j = 0;
+
+    for(var i = 0; i < cantBotones; i++){
+        var boton = document.createElement('button');
+        boton.classList.add("botonCambioPagina");
+        boton.textContent = i + 1;
+        boton = agregarComportamientoBoton(data,boton,i*10);
+        
+        document.getElementById('celdaBotones').appendChild(boton);
+        j += 10;
+    }
+}
+
+function agregarComportamientoBoton(data, boton, i) {
+    boton.addEventListener("click", () =>{
+        var contenedor = document.getElementById('contenedor');
+        items.removeChild(contenedor);
+        crearBotonesJuegos(data.slice(i, i + 10));
+    });
+    return boton;
+}
+
 

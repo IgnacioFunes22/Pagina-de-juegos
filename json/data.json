@@ -400,5 +400,287 @@
     "tiendas": [
       "Nintendo"
     ]
+  },
+  {
+    "_id": "",
+    "titulo": "Hollow Knight: silksong",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 8.5,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      "singleplayer"
+    ],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UsX9y7SAirCr8-c5Y5OQO66Rh6JwX3-1Tw&s",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      "Steam",
+      "Xbox",
+      "Nintendo"
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Hares",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.2,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Cub Head",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.6,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Doom Eternal",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://preview.redd.it/this-should-be-the-new-doom-eternal-cover-v0-qsrb62y9fn7c1.jpeg?auto=webp&s=60683f4473cb783bb4bd42657f6adcbe3dd01b0a",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Age Of Empires 2 Definitive Edition",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9fTc8tHuhCdBBJe6dlLm47nijzWhwL74_A&s",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Counter Strike 2",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://areajugones.sport.es/wp-content/uploads/2023/03/counter-strike-2-2-473x588.jpg",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "League of Legends",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://sm.ign.com/ign_es/game/l/league-of-/league-of-legends_q2kj.png",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "The Last of Us",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://i.pinimg.com/564x/4c/c5/dc/4cc5dc80bcb00be1e268b5c6fd61fa60.jpg",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "The Witcher 3",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
+  },
+  {
+    "_id": "",
+    "titulo": "Battlefield 6",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [
+      ""
+    ],
+    "portada": "https://i.3djuegos.com/juegos/20484/battlefield__2025_/fotos/ficha/battlefield__2025_-5974119.jpg",
+    "imagenes": [
+      ""
+    ],
+    "links": [
+      ""
+    ],
+    "tiendas": [
+      ""
+    ]
   }
 ]
