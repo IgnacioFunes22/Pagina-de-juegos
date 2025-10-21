@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: wheat;
+    background-image: url(/img/wabe1.svg);
+    background-size: cover;
     font-family: 'Nunito Sans', sans-serif;
 }
 h1,h2,h3{
@@ -18,38 +19,6 @@ p{
     line-height: 1.6;
     color: #2a2a2a;
     margin-bottom: 1rem;
-}
-.logo{
-    cursor: pointer;
-}
-
-.logo img{
-    width: 250px;
-    height: auto;
-}
-.nav-links ul{
-    list-style-type: none;    
-}
-
-.nav-links li{
-    display: inline-block;
-    padding: 0 20px;
-}
-
-.nav-links li:hover{
-    transform: scale(1.1);
-}
-
-.nav-links a{
-    font-size: 700;
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-    font-size: large;
-}
-
-.nav-links li a:hover{
-    color: yellow;
 }
 
 footer, header{
@@ -72,10 +41,9 @@ footer{
 }
 
 .logo img{
-    width: 250px;
+    width: 150px;
     height: auto;
 }
-
 .nav-links ul{
     list-style-type: none;    
 }
@@ -124,7 +92,6 @@ article, aside, .div{
     flex: 1;
     justify-content: center;
     align-items: center;
-    border: 5px solid rgba(236, 240, 22, 0);
 }
 
 #imagen{
@@ -138,6 +105,7 @@ article, aside, .div{
 
 .section1{
     display: flex;
+    align-items: start;
 }
 .section1-1{
     display: flex;
@@ -151,7 +119,6 @@ article, aside, .div{
 .section2{
     display: flex;
     justify-content: left;
-    padding: 10px;
 }
 
 .section2 a{
@@ -173,19 +140,21 @@ article, aside, .div{
 .Slider{
     display: flex;
     aspect-ratio: 16/9;
-    max-width: 550px;
+    max-width: 90%;
     overflow-x: hidden;
     scroll-snap-type: x mandatory;
     scroll-behavior: smooth;
     box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
     border-radius: 0.5rem;
-    margin: 10px;
+    margin: auto;
+    margin-bottom: 10px;
 }
 
 .Slider img {
     flex: 1 0 100% ;
     scroll-snap-align: start;
     object-fit: cover;
+    max-width: 100%;
 }
 
 
@@ -220,3 +189,28 @@ article, aside, .div{
     height: 50px;
 }
 
+.imgTexto{
+    width: 100%;
+    max-height: 15%;
+}
+
+.adicional{
+    display: flex;
+    flex-direction: row;
+}
+
+.adicional p{
+    margin: 20px;
+    margin-bottom: 0;
+}
+
+.section1-2 ul{
+    margin: 0;
+    list-style-type: none;
+    font-family: 'Quicksand', sans-serif;
+    color: #2a2a2a;
+}
+
+.section1-2 li{
+    margin-bottom: 10px;
+}

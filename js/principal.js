@@ -22,12 +22,18 @@ function printData(data){
 }
 
 function createDomElement(item){
+    const itemJSON = encodeURIComponent(JSON.stringify(item));
     const itemHtml = `
-    <a href="paginaJuego.html">
-        <button class="juego">
-            <img src=${item.portada} class="imgJuego" alt=${item.titulo} />
+    <article>
+        <button class="juego cargarPagina">
+            <img src=${item.portada} class="imgJuego cargarPagina" alt=${item.titulo} onclick="enlazarApagina('${itemJSON}')" />
             ${item.titulo}
         </button>
-    </a>`;
+    </article>`;
     return itemHtml;
 }
+
+function enlazarApagina(item) {
+   window.open(`paginaJuego.html?item=${item}`, "_self");
+}
+
