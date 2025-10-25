@@ -12,9 +12,12 @@ const imgSliderP = document.createElement('img');
 imgSliderP.src = item.imagenes[0];
 imgSliderP.id = "imagen";
 imgSliderP.alt = item.titulo;
-document.getElementById("sliderPrincipal").appendChild(imgSliderP)
+document.getElementById("sliderPrincipal").appendChild(imgSliderP);
 
 item.imagenes.forEach((imgen) => {
+    const li = document.createElement('li');
+    li.classList.add("slide-visible");
+    
     const celda = document.createElement('div');
     celda.classList.add("Celda");
 
@@ -23,9 +26,9 @@ item.imagenes.forEach((imgen) => {
     imgCelda.classList.add("visual");
 
     celda.appendChild(imgCelda);
-    document.getElementById("selctor").appendChild(celda);
+    li.appendChild(celda);
+    document.getElementById("selctor").appendChild(li);
 });
-
 
 const selectorSlider = document.querySelectorAll(".visual");
 

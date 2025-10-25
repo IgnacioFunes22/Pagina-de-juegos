@@ -12,6 +12,7 @@ function getData(){
 }
 
 function printData(data){
+    console.log(data);
     const long = data.length;
 
     crearBotonesJuegos(data.slice(0, 10));
@@ -21,7 +22,6 @@ function printData(data){
 
 function crearBotonesJuegos(data) {
     try{
-        console.log(data)
         const itemContainer = document.createElement('div');
         itemContainer.className = 'contenedor';
         itemContainer.id = "contenedor";
@@ -39,8 +39,8 @@ function createDomElement(item){
     const itemJSON = encodeURIComponent(JSON.stringify(item));
     const itemHtml = `
     <article>
-        <button class="juego cargarPagina">
-            <img src=${item.portada} class="imgJuego cargarPagina" alt=${item.titulo} onclick="enlazarApagina('${itemJSON}')" />
+        <button class="juego">
+            <img src=${item.portada} class="imgJuego" alt=${item.titulo} onclick="enlazarApagina('${itemJSON}')" />
             ${item.titulo}
         </button>
     </article>`;
@@ -52,27 +52,63 @@ function enlazarApagina(item) {
 }
 
 function crearBotones(data, long){
-    const cantBotones = Math.floor(long / 10);
+    const cantBotones = Math.ceil(long / 10);
     var j = 0;
 
     for(var i = 0; i < cantBotones; i++){
         var boton = document.createElement('button');
         boton.classList.add("botonCambioPagina");
         boton.textContent = i + 1;
-        boton = agregarComportamientoBoton(data,boton,i*10);
+        boton = agregarComportamientoBoton(data,boton,i*10, long);
         
         document.getElementById('celdaBotones').appendChild(boton);
         j += 10;
     }
 }
 
-function agregarComportamientoBoton(data, boton, i) {
+function agregarComportamientoBoton(data, boton, i, long) {
     boton.addEventListener("click", () =>{
         var contenedor = document.getElementById('contenedor');
         items.removeChild(contenedor);
         crearBotonesJuegos(data.slice(i, i + 10));
+        if((i + 10) > long){
+            rellenar((i + 10)-long);
+        }
     });
     return boton;
 }
+
+function rellenar(n) {
+    for (let i = 0; i < n; i++) {
+        const art = document.createElement('article');
+        const relleno = document.createElement('button');
+        const imgRelleno = document.createElement('img');
+
+        relleno.classList.add("juego");
+        relleno.textContent = "Indie Game Reviews"
+
+        imgRelleno.src = "img/logo.png";
+        imgRelleno.classList.add('imgJuego');
+        imgRelleno.alt = "imagen de Indie Game Reviews";
+
+        relleno.appendChild(imgRelleno);
+        art.appendChild(relleno);
+        document.getElementById('contenedor').appendChild(art);
+    }
+}
+
+
+const menu = document.getElementById('menu');
+const desplegable = document.getElementById('desplegable');
+
+menu.addEventListener('mouseenter', () => {
+  desplegable.style.display = 'block';
+});
+
+menu.addEventListener('mouseleave', () => {
+  desplegable.style.display = 'none';
+});
+
+
 
 
