@@ -1,27 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Quicksand:wght@500;700&display=swap');
-*{
+
+* {
     box-sizing: border-box;
 }
 
-body{
-    background-image: url(/img/wabe1.svg);
+body {
+    background-image: url(https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494048/wabe1_tjweyt.svg);
     background-size: cover;
     font-family: 'Nunito Sans', sans-serif;
 }
-h1,h2,h3{
+
+h1,
+h2,
+h3 {
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     color: #2a2a2a;
 }
-p{
+
+p {
     font-family: 'Nunito Sans', sans-serif;
-    font-size:1rem;
+    font-size: 1rem;
     line-height: 1.6;
     color: #2a2a2a;
     margin-bottom: 1rem;
 }
 
-footer, header{
+footer,
+header {
     background: rgba(51, 51, 238, 0.25);
     border: 1px solid rgb(2, 2, 2, 0.5);
     display: flex;
@@ -32,32 +38,33 @@ footer, header{
     border-radius: 0.75rem;
 }
 
-footer{
+footer {
     margin-top: 40px;
 }
 
-.logo{
+.logo {
     cursor: pointer;
 }
 
-.logo img{
+.logo img {
     width: 150px;
     height: auto;
 }
-.nav-links ul{
-    list-style-type: none;    
+
+.nav-links ul {
+    list-style-type: none;
 }
 
-.nav-links li{
+.nav-links li {
     display: inline-block;
     padding: 0 20px;
 }
 
-.nav-links li:hover{
+.nav-links li:hover {
     transform: scale(1.1);
 }
 
-.nav-links a{
+.nav-links a {
     font-size: 700;
     text-decoration: none;
     color: black;
@@ -65,11 +72,11 @@ footer{
     font-size: large;
 }
 
-.nav-links li a:hover{
+.nav-links li a:hover {
     color: yellow;
 }
 
-.wrapper{
+.wrapper {
     min-height: 100vh;
     padding: 15px;
     display: flex;
@@ -80,7 +87,7 @@ footer{
     font-family: sans-serif;
 }
 
-main{
+main {
     flex: 6;
     display: flex;
     justify-content: space-between;
@@ -88,26 +95,29 @@ main{
     gap: 15px;
 }
 
-article, aside, .div{
+article,
+aside,
+.div {
     flex: 1;
     justify-content: center;
     align-items: center;
 }
 
-#imagen{
+#imagen {
     align-items: center;
 }
 
-.encabezado{
+.encabezado {
     display: flex;
     justify-content: center;
 }
 
-.section1{
+.section1 {
     display: flex;
     align-items: start;
 }
-.section1-1{
+
+.section1-1 {
     display: flex;
     flex-direction: column;
     position: relative;
@@ -116,16 +126,16 @@ article, aside, .div{
     padding: 10px 10px 10px 10px;
 }
 
-.section2{
+.section2 {
     display: flex;
     justify-content: left;
 }
 
-.section2 a{
+.section2 a {
     padding-left: 10px;
 }
 
-.mainContent{
+.mainContent {
     display: flex;
     flex-direction: column;
     background: rgba(51, 51, 238, 0.25);
@@ -137,7 +147,7 @@ article, aside, .div{
     padding: 1rem;
 }
 
-.album{
+.album {
     display: flex;
     aspect-ratio: 16/9;
     max-width: 90%;
@@ -151,14 +161,14 @@ article, aside, .div{
 }
 
 .album img {
-    flex: 1 0 100% ;
+    flex: 1 0 100%;
     scroll-snap-align: start;
     object-fit: cover;
     max-width: 100%;
 }
 
 
-.album-nav{
+.album-nav {
     display: flex;
     justify-content: left;
     overflow-x: auto;
@@ -169,7 +179,7 @@ article, aside, .div{
     background-color: rgba(255, 255, 255, 0.25);
 }
 
-.barra{
+.barra {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -177,13 +187,13 @@ article, aside, .div{
     border-radius: 0.5rem;
 }
 
-.barra ul li{
+.barra ul li {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.flecha{
+.flecha {
     background-color: rgba(255, 255, 255, 0.25);
     cursor: pointer;
     border: none;
@@ -193,22 +203,21 @@ article, aside, .div{
 }
 
 
-.flecha:hover{
+.flecha:hover {
     background-color: rgba(255, 255, 255, 0.5);
 }
 
 
-.Celda{
+.Celda {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.visual{
+.visual {
     background-position: center;
     width: 100px;
     height: 50px;
-    border: 1px solid #020202;
     border-radius: .5rem;
     cursor: pointer;
 }
@@ -218,28 +227,90 @@ article, aside, .div{
     height: 50px;
 }
 
-.imgTexto{
+.imgTexto {
     width: 100%;
     max-height: 15%;
 }
 
-.adicional{
+.adicional {
     display: flex;
     flex-direction: row;
 }
 
-.adicional p{
+.adicional p {
     margin: 20px;
     margin-bottom: 0;
 }
 
-.section1-2 ul{
+.section1-2 ul {
     margin: 0;
     list-style-type: none;
     font-family: 'Quicksand', sans-serif;
     color: #2a2a2a;
 }
 
-.section1-2 li{
+.section1-2 li {
     margin-bottom: 10px;
+}
+
+.comBox {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #f7f7f788;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+#comentario {
+    resize: none;
+    /* evita el redimensionado manual */
+    overflow-y: hidden;
+    /* oculta la barra mientras se expande */
+    min-height: 150px;
+    padding: 8px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    transition: height 0.2s ease;
+}
+
+#enviar {
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#enviar:hover {
+    background-color: #2563eb;
+}
+
+.usuario {
+    display: flex;
+    align-items: end;
+    justify-items: start;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.usuario h3 {
+    margin: 0;
+    margin-left: 10px;
+}
+
+#icono {
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#icono img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
