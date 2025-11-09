@@ -7,10 +7,9 @@
     <title>Indie Game Reviews</title>
     <link rel="shortcut icon"
         href="https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494063/logoPeque%C3%B1o_zauw5t.png" />
-    <link rel="stylesheet" href="css/pagJuego.css" />
+    <link rel="stylesheet" href="/public/css/pagJuego.css" />
     <script src="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/js/swiffy-slider.min.js" crossorigin="anonymous"
         defer></script>
-    <script defer src="js/pagJuego.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/swiffy-slider@1.6.0/dist/css/swiffy-slider.min.css" rel="stylesheet"
         crossorigin="anonymous">
 </head>
@@ -18,16 +17,16 @@
 <body>
     <header>
         <div class="logo">
-            <a href="index.html">
+            <a href="http://localhost:4000/IndieGameReviews">
                 <img src="https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494069/logo_gaakp2.png"
                     alt="logo_del_sitio">
             </a>
         </div>
         <nav>
             <ul class="nav-links">
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="quienesSomos.html">Quienes somos</a></li>
-                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="http://localhost:4000/IndieGameReviews">Inicio</a></li>
+                <li><a href="http://localhost:4000/Informacion/SobreNosotros">Quienes somos</a></li>
+                <li><a href="http://localhost:4000/Informacion/Contactanos">Contacto</a></li>
             </ul>
         </nav>
     </header>
@@ -89,7 +88,11 @@
             <p>Autores: Tobias Ignacio Funes - Ugarte Cuevas Jorge Luis - Pelozo Danilo Agustin</p>
         </footer>
     </div>
-
+    <script defer>
+        const data = '<%- JSON.stringify(gameData) %>';
+        window.gameData = data;
+    </script>
+    <script defer type="module" src="/public/js/pagJuego.js"></script>
 </body>
 
 </html>
