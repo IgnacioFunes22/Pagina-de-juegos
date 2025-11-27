@@ -1,0 +1,53 @@
+.botonCambioPagina {
+  background-color: rgb(54, 148, 202, 0.25);
+  border: none;
+  border: 1px solid rgb(0, 0, 0, 0.5);
+  padding: 20px;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  transition: all 0.5s ease-in-out;
+
+  span {
+    z-index: 20;
+  }
+
+  &:after {
+    background: var(--color-negro-opaco);
+    content: "";
+    height: 100px;
+    top: -10px;
+    left: -200px;
+    position: absolute;
+    transform: rotate(35deg);
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+    width: 10px;
+  }
+}
+
+.botonCambioPagina:hover {
+  background: rgb(255, 255, 255, 0.5);
+  color: black;
+  stroke-width: 5;
+  stroke-dasharray: 15, 310;
+  stroke-dashoffset: 48;
+  transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+
+  &:after {
+    left: 300%;
+    transition: all 1s cubic-bezier(0.19, 1, 0.22, 1);
+  }
+}
+
+#celdaBotones {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

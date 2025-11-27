@@ -1,0 +1,1399 @@
+[
+  {
+    "_id": "68e6d417e0fb60323a1848f9",
+    "titulo": "Cyberpunk 2077",
+    "genero": "Acción y Rol",
+    "plataforma": "PC",
+    "precio": "$59.99",
+    "desarrollador": "CD Projekt Red",
+    "fecha_lanzamiento": "2020-12-10",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 8.5,
+    "descripcion1": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales..",
+    "descripcion2": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en la megalópolis de Night City, donde te pondrás en la piel de un mercenario o una mercenaria ciberpunk y vivirás su lucha a vida o muerte por la supervivencia. Mejorado y con contenido nuevo adicional gratuito. Personaliza tu personaje y tu estilo de juego a medida que aceptas trabajos, te labras una reputación y desbloqueas mejoras. Las relaciones que forjes y las decisiones que tomes darán forma al mundo que te rodea. Aquí nacen las leyendas. ¿Cuál será la tuya?",
+    "imgTexto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/extras/80f793acb8979441e0244b2f45653ddf.avif?t=1756209867",
+    "etiquetas": ["open-world", "rpg", "singleplayer"],
+    "portada": "https://m.media-amazon.com/images/M/MV5BZWYyNDRkNzAtOTI0Ny00NDQwLWE5M2YtMWFiZDdmMDc4MmQ0XkEyXkFqcGc@._V1_.jpg",
+    "imagenes": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9beef14102f164fa1163536d0fb3a51d0a2e4a3f.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b20689e73e3ac19bcc5fad2c18d0353c769de144.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_a0c4e4015b5cf766d19bf97eee8b086183510e04.600x338.jpg?t=1756209867",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1091500/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.600x338.jpg?t=1756209867"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?l=spanish",
+      "https://www.xbox.com/es-AR/games/store/cyberpunk-2077/BX3M8L83BBRW",
+      "https://www.playstation.com/es-ar/games/cyberpunk-2077"
+    ],
+    "tiendas": ["Steam", "Xbox", "PlayStation"]
+  },
+  {
+    "_id": "68e6d4170510248465be83bf",
+    "titulo": "Minecraft",
+    "genero": "Aventura y Construcción",
+    "plataforma": "Xbox Series X",
+    "precio": "$29.99",
+    "desarrollador": "Mojang Studios",
+    "fecha_lanzamiento": "2011-11-18",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 9.2,
+    "descripcion1": "Explora mundos generados al azar y construye cosas increíbles, desde las casas más sencillas hasta los castillos más grandiosos. Juega en modo creativo con recursos ilimitados o excava hasta las profundidades del mundo en el modo supervivencia, donde deberás fabricar armas y armaduras para defenderte de las criaturas peligrosas. Escala montañas escarpadas, explora cuevas complejas y extrae grandes vetas de minerales. Descubre los biomas de cuevas y espeleotemas fascinantes. ¡Ilumina tu mundo con velas para presumir tus habilidades de espeleología y montañismo!",
+    "descripcion2": "Juega entre plataformas con hasta 10 amigos, visita los mundos que pueden existir en cualquier momento y en cualquier lugar, y obtén acceso a más de 150 elementos de contenido del Mercado. Aprovecha la prueba gratuita de 30 días disponible dentro de la aplicación y obtén más información en minecraft.net/realms/bedrock.",
+    "imgTexto": "https://cms-assets.xboxservices.com/assets/80/3e/803ec2fd-8b6e-409f-a6c6-e5b19cb118da.jpg?n=Minecraft_Sneaky-Slider-1084_The-Copper-Age_1600x675.jpg",
+    "etiquetas": ["sandbox", "creative", "multiplayer", "survival"],
+    "portada": "https://i.pinimg.com/736x/d2/45/9d/d2459de3246eb8a7d3504903d200f26c.jpg",
+    "imagenes": [
+      "https://www.psu.com/wp/wp-content/uploads/2020/09/Minecraft-PS4-Wallpapers-16.jpg",
+      "https://preview.redd.it/i-love-this-minecraft-wallpaper-i-wish-there-was-an-hd-v0-kxdp36tbzucf1.jpg?width=1797&format=pjpg&auto=webp&s=5daf3ac8804fa2550c0067cba2777599fdf40ae6",
+      "https://wallpapers.com/images/featured/minecraft-hd-f0k9haimutvt21n8.jpg",
+      "https://4kwallpapers.com/images/wallpapers/minecraft-spring-to-3840x2160-21999.jpg",
+      "https://i.redd.it/hey-i-just-realised-that-minecraft-dropped-wallpapers-for-v0-af632nce2dud1.jpg?width=3840&format=pjpg&auto=webp&s=102770acfd3d1534ba97f09cfcaab822e6485b9e",
+      "https://images2.alphacoders.com/137/thumb-1920-1370592.jpeg",
+      "https://wallpapers.com/images/hd/minecraft-aesthetic-blocks-and-brown-houses-kopttz74d2vmck0v.jpg",
+      "https://images.steamusercontent.com/ugc/45703681083039617/D85B1D9F2373076CAF06034BD34629DE30A90597/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    ],
+    "links": [
+      "https://www.playstation.com/en-us/games/minecraft/?",
+      "https://www.nintendo.com/us/store/products/minecraft-106679/?utm_source=mcnet_nintendo_buynow_mcov_1425402",
+      "https://www.xbox.com/en-us/games/store/minecraft/9MVXMVT8ZKWC?cid=mcnet_xbox_buynow_mcov_1425402"
+    ],
+    "tiendas": ["PlayStation", "Nintendo", "Xbox"]
+  },
+  {
+    "_id": "68e6d417e20f168bcc4e2bc7",
+    "titulo": "God of War (2018)",
+    "genero": "Acción y Aventura",
+    "plataforma": "PlayStation 4",
+    "precio": "$49.99",
+    "desarrollador": "Santa Monica Studio",
+    "fecha_lanzamiento": "2018-04-20",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 9.6,
+    "descripcion1": "Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también.",
+    "descripcion2": "Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también.",
+    "imgTexto": "https://c4.wallpaperflare.com/wallpaper/402/841/79/video-games-video-game-art-god-of-war-god-of-war-2018-kratos-hd-wallpaper-preview.jpg",
+    "etiquetas": ["singleplayer", "action", "story-rich"],
+    "portada": "https://uvejuegos.com/img/caratulas/67097/godofwar.jpg",
+    "imagenes": [
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_6eccc970b5de2943546d93d319be1b5c0618f21b.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_f1bff24d3967a21d303d95e11ed892e3d9113057.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_3670ba72c7e3e9c3c3225547ef2c1053504e62b8.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_93a3ca63aa2cd8c675bbb6430324ee3f2d44b845.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_1351cb512d008f7e47fc50b74197f4f8eb6f3419.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_8db3de5b5d611e50945268848de2889e1ed4ba84.600x338.jpg?t=1750949016",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1593500/ss_e0edce62c590bc063a90a1296184392d0a9521da.600x338.jpg?t=1750949016"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1593500/God_of_War/?l=spanish",
+      "https://www.playstation.com/es-ar/games/god-of-war"
+    ],
+    "tiendas": ["Steam", "PlayStation"]
+  },
+  {
+    "_id": "68e6d41736d3c861f1538809",
+    "titulo": "Hollow Knight",
+    "genero": "Metroidvania",
+    "plataforma": "Nintendo Switch",
+    "precio": "$14.99",
+    "desarrollador": "Team Cherry",
+    "fecha_lanzamiento": "2017-02-24",
+    "clasificacion": "E10+",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "¡Forja tu propio camino en Hollow Knight! Una aventura épica a través de un vasto reino de insectos y héroes que se encuentra en ruinas. Explora cavernas tortuosas, combate contra criaturas corrompidas y entabla amistad con extraños insectos, todo en un estilo clásico en 2D dibujado",
+    "descripcion2": "Hollow Knight es una aventura de acción clásica en 2D ambientada en un vasto mundo interconectado. Explora cavernas tortuosas, ciudades antiguas y páramos mortales. Combate contra criaturas corrompidas, haz amistad con extraños insectos y resuelve los antiguos misterios que yacen en el corazón de reino.",
+    "imgTexto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/extras/a6f180dd061047b4197c64bd723544df.avif?t=1695270428",
+    "etiquetas": ["indie", "metroidvania", "action", "exploration"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Hollow_Knight_first_cover_art.webp/274px-Hollow_Knight_first_cover_art.webp.png",
+    "imagenes": [
+      "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
+      "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1617763137764-D5F6028LYPHLAP5BIK0Q/mines.jpg",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_400/ncom/software/switch/70010000003208/50162a28f3e73c7e80021d799acce991a0b051105f209565088cd254a2a986d1",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/208c3efdf8bf7cb5ba1f2154f5508d97af71b7853dc8e7eff302d3b1804bb178",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/6266f71028d118acbc56f2952106b99b8a81de0c4d80db5729db2f2d8c48b15e",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/ncom/software/switch/70010000003208/c9eaec86c13661401717a75546d7e6af55fa0da8b3d3e41e9d58b0c037cc7de7"
+    ],
+    "links": [
+      "https://www.nintendo.com/es-ar/store/products/hollow-knight-switch/?srsltid=AfmBOooOdDajjs3tj1C8AJusceuwllJU49UFYxY904fwQb7L1wlHPSup",
+      "https://store.steampowered.com/app/367520/Hollow_Knight",
+      "https://www.xbox.com/es-AR/games/store/hollow-knight-edicion-corazon-vacio/9mw9469v91lm"
+    ],
+    "tiendas": ["Nintendo", "Steam", "Xbox"]
+  },
+  {
+    "_id": "68e6d4178a293d342a609f55",
+    "titulo": "Fortnite",
+    "genero": "Battle Royale",
+    "plataforma": "Nintendo Switch",
+    "precio": "Gratis",
+    "desarrollador": "Epic Games",
+    "fecha_lanzamiento": "2017-07-21",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 8.8,
+    "descripcion1": "Juega Fortnite a tu manera.Sé la última persona en pie en Batalla campal, Cero construcción, Fortnite: Recarga y Fortnite: Orígenes; explora las experiencias de LEGO Fortnite; deja atrás a tus rivales en Rocket Racing o sé la estrella de Fortnite Festival.",
+    "descripcion2": "¡Juega gratis miles de islas de creadores con tus amigos, como carreras mortales, juegos de gestión, carreras, supervivencia zombi y mucho más! Únete a la comunidad de creadores y crea tu propia isla con Unreal Editor para Fortnite (UEFN) o el modo Creativo de Fortnite.Cada isla de Fortnite tiene una clasificación de edad individual para que puedas encontrar la más adecuada para ti y tus amigos. ¡Encuéntralo todo en Fortnite!",
+    "imgTexto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6M3c79ZIKOHK27g9sNPWYt0LPtxaz5Rn4A&s",
+    "etiquetas": ["battle-royale", "multiplayer", "shooter", "free-to-play"],
+    "portada": "https://i.pinimg.com/736x/8f/16/e9/8f16e97ab5cc7873debc229c7a527a07.jpg",
+    "imagenes": [
+      "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/store/software/switch/70010000010192/f26fc9e1b11ce01369966ed9225e320a293c4eaad1329774f125e05629ffd437",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/4fc31dac6fe1c6aa187db5ef89e3048a4da7317ab03098b4c3c4b4a7ce96ba35",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/4e1a5cb859c57e2f2146479b84068e8a2de53dc829f16921117fc7d7e896e560",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/a5bab00df9d1576f0568928e8286a7ae00abecd876e074b4dcf7330c21d96ca8",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/cc0de45f14229ea8ce4dc2122ac20d7bb6b0b23ad629ca43afd3fde6272a8671",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/8731afad7c6148da2b3531fd2b66b7f727c2060c74e59c957dfc4b44ee37af29",
+      "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_700/store/software/switch/70010000010192/e57546795eac2dfecdc558d27757ce8a85a66c1aa3a8176b9f42d6eaff1f2257"
+    ],
+    "links": [
+      "https://store.epicgames.com/es-MX/all-experiences/fortnite?sortBy=relevancy&sortDir=DESC&count=40",
+      "https://www.xbox.com/es-AR/play/games/fortnite/BT5P2X999VH2",
+      "https://www.nintendo.com/es-ar/store/products/fortnite-switch/?srsltid=AfmBOoojy-j1Ug7071ox5jeftL6zGt59b6zcibE91gvpbWzGSUXItVsh"
+    ],
+    "tiendas": ["Epic Store", "Xbox", "Nintendo"]
+  },
+  {
+    "_id": "68e6d4170e657f5aacde544f",
+    "titulo": "Red Dead Redemption 2",
+    "genero": "Acción y Aventura",
+    "plataforma": "PC",
+    "precio": "$59.99",
+    "desarrollador": "Rockstar Games",
+    "fecha_lanzamiento": "2018-10-26",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 9.8,
+    "descripcion1": "Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y cazarrecompensas pisándoles los talones, la banda deberá atracar, robar y luchar para sobrevivir en su camino por el escabroso territorio.",
+    "descripcion2": "América, 1899. Arthur Morgan y la banda de Van der Linde son forajidos en busca y captura. Mientras los agentes federales y los mejores cazarrecompensas de la nación les pisan los talones, la banda deberá abrirse camino por el abrupto territorio del corazón de América y sobrevivir a base de robos y peleas. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
+    "imgTexto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-hwMVc6NPRTb_yB7JAwSdErnXHoWU6_84oQ&s",
+    "etiquetas": ["open-world", "story-rich", "adventure", "multiplayer"],
+    "portada": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+    "imagenes": [
+      "https://wallpapers.com/images/featured/red-dead-redemption-2-4k-h93m94yxqtqno6jx.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/ss_66b553f4c209476d3e4ce25fa4714002cc914c4f.600x338.jpg?t=1759502961",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/ss_bac60bacbf5da8945103648c08d27d5e202444ca.600x338.jpg?t=1759502961",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/ss_668dafe477743f8b50b818d5bbfcec669e9ba93e.600x338.jpg?t=1759502961",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/ss_4ce07ae360b166f0f650e9a895a3b4b7bf15e34f.600x338.jpg?t=1759502961",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.600x338.jpg?t=1759502961",
+      "https://images.ladbible.com/resize?type=webp&quality=70&width=3840&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltbc1876152fcd9f07/bltc417295a7bce6d4c/68ed0401f1ed5d4d04da5887/red_dead_redemption_2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/?l=spanish&curator_clanid=11846346",
+      "https://www.xbox.com/es-AR/games/store/red-dead-redemption-2/9N2ZDN7NWQKV/0010",
+      "https://www.rockstargames.com/es/reddeadredemption2"
+    ],
+    "tiendas": ["Steam", "Xbox", "Rockstar Games"]
+  },
+  {
+    "_id": "68e6d417f447da4b4142f45c",
+    "titulo": "FIFA 25",
+    "genero": "Deportes",
+    "plataforma": "Steam Deck",
+    "precio": "$69.99",
+    "desarrollador": "EA Sports",
+    "fecha_lanzamiento": "2024-09-27",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 7.8,
+    "descripcion1": "EA SPORTS FC™ 25 te ofrece más formas de ganar por el club. Forma equipo con tus colegas en tus modos favoritos con el nuevo Rush de 5 contra 5 y lleva a tu club a la victoria gracias a un control táctico más realista que nunca con FC IQ.",
+    "descripcion2": "Presentamos la Membresía del Club: la siguiente fase de fidelización en EA SPORTS FC™ 25. Disponible para quienes hayan jugado a EA SPORTS FC™ 24 antes del 27 de septiembre de 2024 y jueguen a EA SPORTS FC™ 25 antes del 1 de noviembre de 2024*. Como miembro del Club de FC 25 accederás a una gran cantidad de beneficios exclusivos durante todo el año, entre los que se incluyen un escudo y una equipación para representar tu condición, y recompensas en todos tus modos de juego favoritos.",
+    "imgTexto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/extras/7522ddd59fae9bffc84eaa8421ce2c9a.avif?t=1752681627",
+    "etiquetas": ["sports", "multiplayer", "realistic", "competitive"],
+    "portada": "https://www.clarin.com/img/2024/07/17/ORRRfEnDj_2000x1500__1.jpg",
+    "imagenes": [
+      "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000074799/ab3989c5c208683e007deb3327a1ce70a8fa6cb38b06cfb8c2c80d563b19cfc7",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_857b4aaf3c10b2a886d60f029f32b2f86d968311.600x338.jpg?t=1752681627",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_aeeea35bf96fad387b97befd9a5c4b9d8ee2ac1a.600x338.jpg?t=1752681627",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_c8460408705b54e37228cc320a2da1c19e4dc12f.600x338.jpg?t=1752681627",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_ee0be94a0a8e1325050481bcf351d736e6d2982d.600x338.jpg?t=1752681627",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_ded26e23554cb4d0612b8f531304f8f486eafcf4.600x338.jpg?t=1752681627",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/ss_709f8a775654b083b7faf991522f657dda2a14a9.600x338.jpg?t=1752681627"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/2669320/EA_SPORTS_FC_25/?l=spanish",
+      "https://www.playstation.com/es-ar/games/ea-sports-fc-25",
+      "https://www.xbox.com/es-AR/games/store/ea-sports-fc-25-edicion-estandar-para-xbox-one-y-xbox-series-xs/9mvk78mgd737"
+    ],
+    "tiendas": ["Steam", "PlayStation", "Xbox"]
+  },
+  {
+    "_id": "68e6d4175634a6704490a325",
+    "titulo": "God of War: Ragnarök",
+    "genero": "Acción y Aventura",
+    "plataforma": "PlayStation 5",
+    "precio": "$69.99",
+    "desarrollador": "Santa Monica Studio",
+    "fecha_lanzamiento": "2022-11-09",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 9.7,
+    "descripcion1": "Kratos y Atreus se embarcan en una mítica aventura en busca de respuestas y aliados antes de la llegada del Ragnarök. Ahora también en PC.",
+    "descripcion2": "En God of War Ragnarök, la secuela del aclamado God of War (2018), el Fimbulvetr está en marcha. Kratos y Atreus deben viajar a cada uno de los Nueve Reinos en busca de respuestas mientras las fuerzas asgardianas de Odín se preparan para la batalla profetizada que supondrá el fin del mundo.",
+    "imgTexto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUgqcwkxWAqV_OjJBFuKerVVHNDKAe5s72w&s",
+    "etiquetas": ["singleplayer", "action", "story-rich", "narrative"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEmHlaYwsOI5Bdtt7HY5TzBP4RCBLsB9sN2w&s",
+    "imagenes": [
+      "https://images.hdqwalls.com/wallpapers/god-of-war-ragnarok-digital-deluxe-edition-2d.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7c59382e67eadf779e0e15c3837ee91158237f11.600x338.jpg?t=1750909504",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_05f27139b15c5410d07cd59b7b52adbdf73e13da.600x338.jpg?t=1750909504",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_974a7b998c0c14da7fe52a342cf36c98850a57ac.600x338.jpg?t=1750909504",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_78350297511e81f287b4bc361935efbc3016f6db.600x338.jpg?t=1750909504",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_7cbcd6847cac4d2d42f496954d0df715c6af0b3a.600x338.jpg?t=1750909504",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2322010/ss_c6240e5611e6aa1c2219dbf778f79b2b5244d912.600x338.jpg?t=1750909504"
+    ],
+    "links": [
+      "https://www.playstation.com/es-ar/games/god-of-war-ragnarok",
+      "https://store.steampowered.com/app/2322010/God_of_War_Ragnark",
+      "https://store.epicgames.com/es-ES/p/god-of-war-ragnarok-3ca641"
+    ],
+    "tiendas": ["PlayStation", "Steam", "Epic Store"]
+  },
+  {
+    "_id": "68e6d4171bae75916d4d053e",
+    "titulo": "Elden Ring",
+    "genero": "Acción y Rol",
+    "plataforma": "PC",
+    "precio": "$59.99",
+    "desarrollador": "FromSoftware",
+    "fecha_lanzamiento": "2022-02-25",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 9.8,
+    "descripcion1": "EL NUEVO JUEGO DE ROL Y ACCIÓN DE AMBIENTACIÓN FANTÁSTICA. Álzate, Sinluz, y que la gracia te guíe para abrazar el poder del Círculo de Elden y encumbrarte como señor del Círculo en las Tierras Intermedias.",
+    "descripcion2": "Las Tierras Intermedias forman parte de un extenso continente donde magníficos campos abiertos y gigantescas mazmorras con diseños tridimensionales complejos se conectan. Mientras exploras, te espera la emoción de descubrir amenazas desconocidas y abrumadoras. El dominio del terreno y conocer sus secretos pueden ayudarte a superar enemigos y a derrotar jefes formidables, o a conducir a los jugadores invasores hasta trampas.",
+    "imgTexto": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2022/02/23/621638bb4eff9.jpeg",
+    "etiquetas": ["open-world", "soulslike", "rpg", "multiplayer"],
+    "portada": "https://cdn-images.dzcdn.net/images/cover/8b582bebc9f1fd2ac0a7ced8271fc68f/0x1900-000000-80-0-0.jpg",
+    "imagenes": [
+      "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/df5ngtd-17026e84-6411-485a-9746-73a1643dc80a.jpg",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_943bf6fe62352757d9070c1d33e50b92fe8539f1.600x338.jpg?t=1748630546",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_dcdac9e4b26ac0ee5248bfd2967d764fd00cdb42.600x338.jpg?t=1748630546",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_3c41384a24d86dddd58a8f61db77f9dc0bfda8b5.600x338.jpg?t=1748630546",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_e0316c76f8197405c1312d072b84331dd735d60b.600x338.jpg?t=1748630546",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_ef61b771ee6b269b1f0cb484233e07a0bfb5f81b.600x338.jpg?t=1748630546",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1245620/ss_b1b91299d7e4b94201ac840aa64de54d9f5cb7f3.600x338.jpg?t=1748630546"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1245620/ELDEN_RING/?l=spanish",
+      "https://www.xbox.com/es-AR/games/store/elden-ring/9P3J32CTXLRZ/0010",
+      "https://www.playstation.com/es-ar/games/elden-ring"
+    ],
+    "tiendas": ["Steam", "Xbox", "PlayStation"]
+  },
+  {
+    "_id": "68e6d41759e75ccff0003092",
+    "titulo": "The Legend of Zelda: Tears of the Kingdom",
+    "genero": "Aventura y Exploración",
+    "plataforma": "Nintendo Switch",
+    "precio": "$69.99",
+    "desarrollador": "Nintendo",
+    "fecha_lanzamiento": "2023-05-12",
+    "clasificacion": "E10+",
+    "multijugador": false,
+    "rating": 9.9,
+    "descripcion1": "Tears of the Kingdom conserva la jugabilidad de acción y aventura en mundo abierto de The Legend of Zelda: Breath of the Wild (2017). Como Link , el jugador explora el escenario principal de Hyrule y dos nuevas áreas: el cielo, con varias islas flotantes, y las Profundidades, una vasta zona subterránea bajo Hyrule. Link puede escalar, montar a caballo o usar un parapente para surcar los aires. Los personajes y lugares de Breath of the Wild se mantuvieron y se modificaron para adaptarse a la historia.",
+    "descripcion2": "El cielo es un área compuesta por varias islas flotantes que contienen rompecabezas, tesoros, enemigos y jefes. Las Profundidades son una región oscura que requiere objetos para iluminarse y contiene tesoros, así como peligros como lava y penumbra, una sustancia dañina que reduce el número máximo de corazones de Link .",
+    "imgTexto": "https://www.nintenderos.com/wp-content/uploads/2023/04/logo-zelda-1250x703.jpg",
+    "etiquetas": ["adventure", "open-world", "puzzle", "exploration"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg",
+    "imagenes": [
+      "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_930/b_white/f_auto/q_auto/store/software/switch2/70050000056960/f20258999e8d852a496dad2961a87faf2b119488f97fb81442f378043e58b000",
+      "https://sm.ign.com/ign_es/gallery/t/the-legend/the-legend-of-zelda-tears-of-the-kingdom-april-2023-screensh_9hjd.jpg",
+      "https://media.es.wired.com/photos/645d4a69a566376ee967bb98/master/pass/Zelda-Tears-Of-The-Kingdom-Culture-TotK_3rd_54.jpg",
+      "https://sm.pcmag.com/pcmag_me/review/t/the-legend/the-legend-of-zelda-tears-of-the-kingdom_787j.jpg",
+      "https://cdn.mos.cms.futurecdn.net/jK7LtjgJFhZRCv3damCDR7.jpg",
+      "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/02/zelda-tears-kingdom-2961270.jpg?tf=3840x",
+      "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/05/zelda-tears-kingdom-3034236.jpg?tf=3840x"
+    ],
+    "links": [
+      "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/The-Legend-of-Zelda-Tears-of-the-Kingdom-1576884.html?srsltid=AfmBOorVc5EBcRux7bQtOERiusvuXGixf68BPKXcQTPuv8ldmHoMxc-I"
+    ],
+    "tiendas": ["Nintendo"]
+  },
+  {
+    "_id": "2fj0ij81yr7g1bhfwk",
+    "titulo": "Hollow Knight: silksong",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 8.5,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": ["singleplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UsX9y7SAirCr8-c5Y5OQO66Rh6JwX3-1Tw&s",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": ["Steam", "Xbox", "Nintendo"]
+  },
+  {
+    "_id": "82361276",
+    "titulo": "Hares",
+    "genero": "Roguelike / Action",
+    "plataforma": "PC / Switch / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "24.99",
+    "desarrollador": "Supergiant Games",
+    "fecha_lanzamiento": "2020-09-17",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.8,
+    "descripcion1": "Roguelike con combate rápido y narrativa integrada que progresa con cada intento.",
+    "descripcion2": "Personajes memorables, rejugabilidad y una banda sonora destacada.",
+    "etiquetas": ["roguelike", "action", "indie"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/c/cc/Hades_cover_art.jpg",
+    "imagenes": [""],
+    "links": [
+      "https://www.supergiantgames.com/games/hades/",
+      "https://store.steampowered.com/app/1145360/Hades/",
+      "https://store.epicgames.com/es-ES/p/hades"
+    ],
+    "tiendas": ["Supergiant Games", "Steam", "Epic Games Store"]
+  },
+  {
+    "_id": "w7tf2h93tg19fh18",
+    "titulo": "Cub Head",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.6,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [""],
+    "portada": "https://image.api.playstation.com/vulcan/img/cfn/11307fllh6D-IvbpCa18N0vRggVeRYWA06paTNCj3DENJMScAzW2f3ry4IwFcXBAt9kWXdZGpGoOGjxJ_e9MdordMVAosNhZ.png",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": [""]
+  },
+  {
+    "_id": "c78q37fg71tg2y8e3",
+    "titulo": "Doom Eternal",
+    "genero": "Shooter / Action",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "39.99",
+    "desarrollador": "id Software",
+    "fecha_lanzamiento": "2020-03-20",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.5,
+    "descripcion1": "Shooter en primera persona frenético con combate rápido y arsenal variado.",
+    "descripcion2": "Campaña intensa y diseños de niveles que fomentan el movimiento agresivo.",
+    "etiquetas": ["shooter", "action", "singleplayer"],
+    "portada": "https://preview.redd.it/this-should-be-the-new-doom-eternal-cover-v0-qsrb62y9fn7c1.jpeg?auto=webp&s=60683f4473cb783bb4bd42657f6adcbe3dd01b0a",
+    "imagenes": [""],
+    "links": ["https://store.steampowered.com/app/782330/DOOM_Eternal/"],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "ni3ryu238tg28ehdf",
+    "titulo": "Age Of Empires 2 Definitive Edition",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [""],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9fTc8tHuhCdBBJe6dlLm47nijzWhwL74_A&s",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": [""]
+  },
+  {
+    "_id": "3424235",
+    "titulo": "Counter Strike 2",
+    "genero": "Shooter / Competitive",
+    "plataforma": "PC",
+    "precio": "0.00",
+    "desarrollador": "Valve",
+    "fecha_lanzamiento": "2012-08-21",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 4.5,
+    "descripcion1": "Shooter táctico por equipos con enfoque competitivo y eSports.",
+    "descripcion2": "Mapas clásicos, economía de rondas y comunidad activa.",
+    "etiquetas": ["shooter", "competitive", "multiplayer"],
+    "portada": "https://areajugones.sport.es/wp-content/uploads/2023/03/counter-strike-2-2-473x588.jpg",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "3f627ygy823adv",
+    "titulo": "League of Legends",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [""],
+    "portada": "https://sm.ign.com/ign_es/game/l/league-of-/league-of-legends_q2kj.png",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": [""]
+  },
+  {
+    "_id": "8ue9fyw8t3",
+    "titulo": "The Last of Us",
+    "genero": "Action / Adventure",
+    "plataforma": "PS4 / PS5",
+    "precio": "59.99",
+    "desarrollador": "Naughty Dog",
+    "fecha_lanzamiento": "2020-06-19",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.6,
+    "descripcion1": "",
+    "descripcion2": "",
+    "etiquetas": ["story-rich", "action", "singleplayer"],
+    "portada": "https://i.pinimg.com/564x/4c/c5/dc/4cc5dc80bcb00be1e268b5c6fd61fa60.jpg",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": ["PlayStation"]
+  },
+  {
+    "_id": "5325462fs",
+    "titulo": "Battlefield 6",
+    "genero": "",
+    "plataforma": "",
+    "precio": "",
+    "desarrollador": "",
+    "fecha_lanzamiento": "",
+    "clasificacion": "",
+    "multijugador": false,
+    "rating": 9.4,
+    "descripcion1": "",
+    "descripcion2": "",
+    "imgTexto": "",
+    "etiquetas": [""],
+    "portada": "https://i.3djuegos.com/juegos/20484/battlefield__2025_/fotos/ficha/battlefield__2025_-5974119.jpg",
+    "imagenes": [""],
+    "links": [""],
+    "tiendas": [""]
+  },
+  {
+    "_id": "2y13895y7",
+    "titulo": "Starfield",
+    "genero": "RPG",
+    "plataforma": "PC / Xbox Series X|S",
+    "precio": "69.99",
+    "desarrollador": "Bethesda Game Studios",
+    "fecha_lanzamiento": "2023-09-06",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.3,
+    "descripcion1": "Un juego de rol espacial de mundo abierto ambientado en la galaxia.",
+    "descripcion2": "Explora planetas, construye bases, toma decisiones que cambian la historia y tu destino.",
+    "etiquetas": ["rpg", "open-world", "exploration"],
+    "portada": "https://preview.redd.it/starfield-cover-art-inspired-by-star-trek-the-motion-v0-tnuxrvelcv591.jpg?width=640&crop=smart&auto=webp&s=10f2340708c9484dcf96115451598fe1550551d7",
+    "imagenes": [
+      "https://assets.xboxservices.com/assets/7f/7f0f5d31-2e8e-4a79-92c2-4c3d9b5f1e2b.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/20/Starfield_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/8/8e/Starfield_Screenshot2.jpg"
+    ],
+    "links": [
+      "https://bethesda.net/en/game/starfield",
+      "https://store.steampowered.com/app/1716670/Starfield/"
+    ],
+    "tiendas": ["Steam", "Microsoft Store", "Xbox Store"]
+  },
+  {
+    "_id": "3389492365",
+    "titulo": "Horizon Forbidden West",
+    "genero": "Action RPG",
+    "plataforma": "PS5 / PS4",
+    "precio": "69.99",
+    "desarrollador": "Guerrilla Games",
+    "fecha_lanzamiento": "2022-02-18",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.5,
+    "descripcion1": "Secuela de Horizon Zero Dawn donde Aloy explora un mundo posapocalíptico submarino y terrestre.",
+    "descripcion2": "Combina acción, exploración, criaturas mecánicas y una narrativa cinematográfica impactante.",
+    "etiquetas": ["open-world", "action", "story-rich"],
+    "portada": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/1dy5w3SNiJnXjP8YvmydCL9X.png",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/50/Horizon_Forbidden_West_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/0/0b/Horizon_Forbidden_West_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/e/ee/Horizon_Forbidden_West_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "https://store.playstation.com/en-us/concept/10008323"
+    ],
+    "tiendas": ["PlayStation Store"]
+  },
+  {
+    "_id": "452523454",
+    "titulo": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "39.99",
+    "desarrollador": "CD Projekt Red",
+    "fecha_lanzamiento": "2015-05-19",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.8,
+    "descripcion1": "Un épico juego de rol en un enorme mundo abierto lleno de monstruos, intriga política y elecciones morales.",
+    "descripcion2": "Acompaña a Geralt de Rivia en su búsqueda, experimenta múltiples finales, expansiones masivas y gran rejugabilidad.",
+    "etiquetas": ["rpg", "open-world", "story-rich"],
+    "portada": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0711/kh4MUIuMmHlktOHar3lVl6rY.png",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/4/4c/Witcher_3_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/3/3d/Witcher_3_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/7/72/Witcher_3_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt_Game_of_the_Year_Edition/",
+      "https://www.gog.com/game/the_witcher_3_wild_hunt"
+    ],
+    "tiendas": ["Steam", "GOG"]
+  },
+  {
+    "_id": "7",
+    "titulo": "Among Us",
+    "genero": "Party / Social Deduction",
+    "plataforma": "PC / Mobile / Switch / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "4.99",
+    "desarrollador": "Innersloth",
+    "fecha_lanzamiento": "2018-06-15",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.2,
+    "descripcion1": "Un juego social de deducción donde los jugadores trabajan juntos y tratan de encontrar al impostor.",
+    "descripcion2": "Perfecto para jugar con amigos, requiere comunicación, engaños y colaboración para sobrevivir o traicionar.",
+    "etiquetas": ["indie", "multiplayer", "competitive"],
+    "portada": "https://i.pinimg.com/736x/96/08/e5/9608e52f405b47975ec38e10edc3bf1c.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/0/02/Among_Us_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/f/fc/Among_Us_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/17/Among_Us_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://innersloth.com/gameAmongUs.php",
+      "https://store.steampowered.com/app/945360/Among_Us/"
+    ],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "8",
+    "titulo": "Animal Crossing: New Horizons",
+    "genero": "Simulation / Life-Sim",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2020-03-20",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 4.6,
+    "descripcion1": "Crea tu isla paradisíaca, invita amigos, pesca, decora y vive en comunidad relajada.",
+    "descripcion2": "Gran libertad creativa, eventos estacionales, interacción con otros jugadores y estilo de vida tranquilo.",
+    "etiquetas": ["creative", "singleplayer", "multiplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2P8jXK4gL6gGtf19rbN5JdSBxcMaxE7lLag&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/4/4b/Animal_Crossing_New_Horizons_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/9/9d/Animal_Crossing_New_Horizons_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/7/7f/Animal_Crossing_New_Horizons_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/",
+      "https://www.nintendo.com/es-ar/juegos/juegos-de-nintendo-switch/animal-crossing-new-horizons-1576884.html"
+    ],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "10",
+    "titulo": "Super Mario Odyssey",
+    "genero": "Platform / Adventure",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2017-10-27",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.8,
+    "descripcion1": "Mario viaja por diversos mundos creativos para rescatar a la princesa Peach con su sombrero Cappy.",
+    "descripcion2": "Diversión explosiva, mundos de fantasía, toneladas de secretos, movimientos innovadores y modo cooperativo ligero.",
+    "etiquetas": ["adventure", "singleplayer", "creative"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/36/Super_Mario_Odyssey_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/c/cb/Super_Mario_Odyssey_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/17/Super_Mario_Odyssey_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/",
+      "https://www.nintendo.com/es-ar/juegos/juegos-de-nintendo-switch/super-mario-odyssey-1442560.html"
+    ],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "734234",
+    "titulo": "Grand Theft Auto V",
+    "genero": "Action / Adventure",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "29.99",
+    "desarrollador": "Rockstar Games",
+    "fecha_lanzamiento": "2013-09-17",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 4.6,
+    "descripcion1": "Un enorme mundo abierto con múltiples protagonistas y una campaña narrativa extensa.",
+    "descripcion2": "Incluye GTA Online, modo multijugador con actualizaciones constantes.",
+    "etiquetas": ["open-world", "action", "multiplayer"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/8/8d/GTAV_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/2f/GTAV_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+      "https://www.rockstargames.com/V/"
+    ],
+    "tiendas": ["Steam", "Rockstar Store"]
+  },
+  {
+    "_id": "10",
+    "titulo": "Celeste",
+    "genero": "Platform / Puzzle",
+    "plataforma": "PC / Switch / PS4 / Xbox One",
+    "precio": "19.99",
+    "desarrollador": "Matt Makes Games",
+    "fecha_lanzamiento": "2018-01-25",
+    "clasificacion": "E10+",
+    "multijugador": false,
+    "rating": 4.7,
+    "descripcion1": "Plataforma desafiante con una historia emocional sobre superar problemas personales.",
+    "descripcion2": "Niveles precisos, excelentes controles y banda sonora destacada.",
+    "etiquetas": ["platform", "puzzle", "indie"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQUNEgI_ax2Q10bkC3NWBF0hTZswpkj2B1g&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/5f/Celeste_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/2e/Celeste_screenshot2.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/504230/Celeste/"],
+    "tiendas": ["Steam", "Nintendo eShop"]
+  },
+  {
+    "_id": "13",
+    "titulo": "Mario Kart 8 Deluxe",
+    "genero": "Racing / Party",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2017-04-28",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 4.7,
+    "descripcion1": "Carreras frenéticas con personajes de Nintendo y multijugador local y online.",
+    "descripcion2": "Gran selección de pistas, items y modos de juego para competir con amigos.",
+    "etiquetas": ["multiplayer", "competitive", "sports"],
+    "portada": "https://i.pinimg.com/736x/04/15/42/041542b12092bcbb37556c6d4d9c917f.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/7/7d/Mario_Kart_8_Deluxe_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/12/Mario_Kart_8_Deluxe_Screenshot2.jpg"
+    ],
+    "links": [
+      "https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/"
+    ],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "14",
+    "titulo": "Apex Legends",
+    "genero": "Battle Royale / Shooter",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "0.00",
+    "desarrollador": "Respawn Entertainment",
+    "fecha_lanzamiento": "2019-02-04",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 4.3,
+    "descripcion1": "Battle royale por equipos con héroes con habilidades únicas.",
+    "descripcion2": "Juego gratuito con énfasis en la movilidad y la estrategia por escuadrones.",
+    "etiquetas": ["battle-royale", "shooter", "multiplayer"],
+    "portada": "https://i.pinimg.com/736x/20/42/c7/2042c777c911be32250a5a5ea6745056.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/5b/Apex_Legends_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/29/Apex_Legends_screenshot2.jpg"
+    ],
+    "links": ["https://www.ea.com/games/apex-legends"],
+    "tiendas": ["Origin", "EA App"]
+  },
+  {
+    "_id": "16",
+    "titulo": "Valorant",
+    "genero": "Shooter / Competitive",
+    "plataforma": "PC",
+    "precio": "0.00",
+    "desarrollador": "Riot Games",
+    "fecha_lanzamiento": "2020-06-02",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 4.2,
+    "descripcion1": "Shooter táctico en equipos con agentes que tienen habilidades únicas.",
+    "descripcion2": "Enfocado en la competencia y los eSports con partidas 5v5.",
+    "etiquetas": ["shooter", "competitive", "multiplayer"],
+    "portada": "https://media.vandal.net/m/78531/valorant-202052910331074_1.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/6/66/Valorant_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/9/99/Valorant_screenshot2.jpg"
+    ],
+    "links": ["https://playvalorant.com/"],
+    "tiendas": ["Riot Games"]
+  },
+  {
+    "_id": "17",
+    "titulo": "Rocket League",
+    "genero": "Sports / Competitive",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "0.00",
+    "desarrollador": "Psyonix",
+    "fecha_lanzamiento": "2015-07-07",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 4.4,
+    "descripcion1": "Fútbol con autos en arenas competitivas y multijugador rápido.",
+    "descripcion2": "Modos casuales y competitivos, personalización y temporadas.",
+    "etiquetas": ["sports", "competitive", "multiplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfDgCAO5rb1fm0XGiQr3rNzYS7b9QNbV61Zg&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/3a/Rocket_League_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/9/95/Rocket_League_screenshot2.jpg"
+    ],
+    "links": ["https://www.rocketleague.com/"],
+    "tiendas": ["Epic Games Store", "Steam"]
+  },
+  {
+    "_id": "19",
+    "titulo": "Stardew Valley",
+    "genero": "Simulation / RPG",
+    "plataforma": "PC / Switch / PS4 / Xbox One / Mobile",
+    "precio": "14.99",
+    "desarrollador": "ConcernedApe",
+    "fecha_lanzamiento": "2016-02-26",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 4.6,
+    "descripcion1": "Simulador de granja con elementos RPG, relaciones y exploración de minas.",
+    "descripcion2": "Relajante y profundo, con gran cantidad de contenido y actualizaciones.",
+    "etiquetas": ["indie", "singleplayer", "rpg"],
+    "portada": "https://i.3djuegos.com/juegos/12908/stardew_valley/fotos/ficha/stardew_valley-3324716.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/1/1b/Stardew_Valley_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/2a/Stardew_Valley_screenshot2.jpg"
+    ],
+    "links": ["https://www.stardewvalley.net/"],
+    "tiendas": ["Steam", "GOG"]
+  },
+  {
+    "_id": "23",
+    "titulo": "Resident Evil Village",
+    "genero": "Horror / Action",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "49.99",
+    "desarrollador": "Capcom",
+    "fecha_lanzamiento": "2021-05-07",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.1,
+    "descripcion1": "Survival horror con atmósfera gótica y villanos memorables.",
+    "descripcion2": "Combina exploración, puzzles y combate en primera persona.",
+    "etiquetas": ["survival", "horror", "action"],
+    "portada": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fstatic.prisa.com%2Fgamepedia%2Fimagenes%2F2021%2F05%2F07%2Fgame_cover%2F1153181620343736.jpg?auth=6f6e8fcfa5ada830388f50caf9a190f721a65247eae5d22fdc93bb0a391a5318&width=140&height=210&smart=true",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/2/25/Resident_Evil_Village_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/8/85/Resident_Evil_Village_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1196590/Resident_Evil_Village/"
+    ],
+    "tiendas": ["Steam", "PlayStation Store", "Xbox Store"]
+  },
+  {
+    "_id": "24",
+    "titulo": "Monster Hunter: World",
+    "genero": "Action / RPG",
+    "plataforma": "PC / PS4 / Xbox One",
+    "precio": "29.99",
+    "desarrollador": "Capcom",
+    "fecha_lanzamiento": "2018-01-26",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 4.4,
+    "descripcion1": "Caza monstruos en entornos ricos, con equipo y progresión profunda.",
+    "descripcion2": "Cooperativo para hasta 4 jugadores y enorme variación de armas.",
+    "etiquetas": ["action", "multiplayer", "rpg"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IWMOyQ4YwQhBZducV3OIW5L0vNx2sVOfxg&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/5d/Monster_Hunter_World_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/12/Monster_Hunter_World_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/582010/Monster_Hunter_World/"
+    ],
+    "tiendas": ["Steam", "Capcom Store"]
+  },
+  {
+    "_id": "25",
+    "titulo": "Monster Hunter Rise",
+    "genero": "Action / RPG",
+    "plataforma": "Switch / PC",
+    "precio": "49.99",
+    "desarrollador": "Capcom",
+    "fecha_lanzamiento": "2021-03-26",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 4.2,
+    "descripcion1": "Entrada ágil en la saga Monster Hunter con movilidad vertical y combate fluido.",
+    "descripcion2": "Incluye modos cooperativos y gran variedad de armas y monstruos.",
+    "etiquetas": ["action", "multiplayer", "rpg"],
+    "portada": "https://sm.ign.com/ign_es/game/m/monster-hu/monster-hunter-rise_929e.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/0/0b/Monster_Hunter_Rise_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/3/33/Monster_Hunter_Rise_screenshot2.jpg"
+    ],
+    "links": [
+      "https://www.monsterhunter.com/rise/",
+      "https://store.steampowered.com/app/1446780/Monster_Hunter_Rise/"
+    ],
+    "tiendas": ["Nintendo eShop", "Steam"]
+  },
+  {
+    "_id": "26",
+    "titulo": "Persona 5 Royal",
+    "genero": "RPG",
+    "plataforma": "PS4 / PS5 / PC / Switch / Xbox Series X|S",
+    "precio": "39.99",
+    "desarrollador": "Atlus",
+    "fecha_lanzamiento": "2019-10-31",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.8,
+    "descripcion1": "RPG japonés centrado en la vida estudiantil, mazmorras estilizadas y combate por turnos.",
+    "descripcion2": "Historia profunda, personajes carismáticos y estilo artístico distintivo.",
+    "etiquetas": ["rpg", "story-rich", "singleplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8X3dq9ngvbzE4YSK2sIJUZbAv1PEkx_Ur5g&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/7/7a/Persona_5_Royal_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/2/27/Persona_5_Royal_screenshot2.jpg"
+    ],
+    "links": [
+      "https://atlus.com/p5r/",
+      "https://store.playstation.com/en-us/product/UP1018-CUSA16237_00-P5RMAIN000000001"
+    ],
+    "tiendas": ["PlayStation Store", "Steam"]
+  },
+  {
+    "_id": "28",
+    "titulo": "Control",
+    "genero": "Action / Adventure",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "29.99",
+    "desarrollador": "Remedy Entertainment",
+    "fecha_lanzamiento": "2019-08-27",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.0,
+    "descripcion1": "Aventura sobrenatural con poderes telequinéticos y arquitectura cambiante.",
+    "descripcion2": "Combina acción, exploración y narrativa intrigante.",
+    "etiquetas": ["action", "singleplayer", "story-rich"],
+    "portada": "https://i.redd.it/h7qzlwl8jtg51.png",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/8/88/Control_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/14/Control_screenshot2.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/870780/Control/"],
+    "tiendas": ["Steam", "Epic Games Store"]
+  },
+  {
+    "_id": "30",
+    "titulo": "Dead Cells",
+    "genero": "Roguelike / Action",
+    "plataforma": "PC / Switch / PS4 / Xbox One / Mobile",
+    "precio": "24.99",
+    "desarrollador": "Motion Twin",
+    "fecha_lanzamiento": "2018-08-07",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.5,
+    "descripcion1": "Juego de acción con elementos roguelike y combates rápidos.",
+    "descripcion2": "Gran rejugabilidad y sistema de mejoras persistentes.",
+    "etiquetas": ["roguelike", "action", "indie"],
+    "portada": "https://store-images.s-microsoft.com/image/apps.33704.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.c6483868-0337-4d5f-bc1f-36132804e3d7",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/0/0e/Dead_Cells_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/e/e2/Dead_Cells_screenshot2.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/588650/Dead_Cells/"],
+    "tiendas": ["Steam", "Nintendo eShop"]
+  },
+  {
+    "_id": "31",
+    "titulo": "Ori and the Will of the Wisps",
+    "genero": "Platform / Adventure",
+    "plataforma": "PC / Xbox One / Xbox Series X|S / Switch",
+    "precio": "29.99",
+    "desarrollador": "Moon Studios",
+    "fecha_lanzamiento": "2020-03-11",
+    "clasificacion": "E10+",
+    "multijugador": false,
+    "rating": 4.7,
+    "descripcion1": "Secuela preciosa y emotiva con plataformas precisas y diseño artístico excepcional.",
+    "descripcion2": "Aventura atmosférica con combate y puzzles.",
+    "etiquetas": ["platform", "adventure", "singleplayer"],
+    "portada": "https://i.3djuegos.com/juegos/14978/ori_and_the_blind_forest_ii/fotos/ficha/ori_and_the_blind_forest_ii-5109765.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/9/94/Ori_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/a/ab/Ori_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1559040/Ori_and_the_Will_of_the_Wisps/"
+    ],
+    "tiendas": ["Steam", "Microsoft Store"]
+  },
+  {
+    "_id": "32",
+    "titulo": "Splatoon 3",
+    "genero": "Shooter / Multiplayer",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2022-09-09",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.2,
+    "descripcion1": "Shooter colorido centrado en partidas multijugador con equipos de pintores.",
+    "descripcion2": "Mapas dinámicos, modos competitivos y actualizaciones constantes.",
+    "etiquetas": ["shooter", "multiplayer", "competitive"],
+    "portada": "https://images.cdn3.buscalibre.com/fit-in/360x360/c0/ef/c0efad6f593d3f4b750cfedf72c0ceb6.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/2/2b/Splatoon_3_screenshot1.jpg"
+    ],
+    "links": ["https://www.nintendo.com/games/detail/splatoon-3-switch/"],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "33",
+    "titulo": "Metroid Dread",
+    "genero": "Action / Adventure",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2021-10-08",
+    "clasificacion": "E10+",
+    "multijugador": false,
+    "rating": 4.5,
+    "descripcion1": "Nueva entrega clásica de Metroid en 2D con una mezcla de acción y exploración.",
+    "descripcion2": "Enfrenta amenazas mecánicas y resuelve puzles en escenarios interconectados.",
+    "etiquetas": ["metroidvania", "action", "exploration"],
+    "portada": "https://nindigible.com/wp-content/uploads/2021/10/Metroid-Dread-Resena-Cover-1.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/8/8f/Metroid_Dread_screenshot1.jpg"
+    ],
+    "links": ["https://www.nintendo.com/games/detail/metroid-dread-switch/"],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "34",
+    "titulo": "Super Smash Bros. Ultimate",
+    "genero": "Fighting / Party",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Bandai Namco / Sora Ltd.",
+    "fecha_lanzamiento": "2018-12-07",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.7,
+    "descripcion1": "Crossover de luchadores con enorme roster y modos multijugador.",
+    "descripcion2": "Compite local u online con amigos o en torneos.",
+    "etiquetas": ["multiplayer", "competitive", "party"],
+    "portada": "https://external-preview.redd.it/WWlywV3UCoEbldP1k7eR6sH5-Yk13rUm3KiXLI_cBSo.jpg?width=640&crop=smart&auto=webp&s=4134ddd6cc2c26023cefa3444d378994f5c4c589",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/1/12/Smash_screenshot1.jpg"
+    ],
+    "links": [
+      "https://www.nintendo.com/games/detail/super-smash-bros-ultimate-switch/"
+    ],
+    "tiendas": ["Nintendo eShop"]
+  },
+  {
+    "_id": "35",
+    "titulo": "FIFA 23 (EA Sports FC transition)",
+    "genero": "Sports / Simulation",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "59.99",
+    "desarrollador": "EA Sports",
+    "fecha_lanzamiento": "2022-09-30",
+    "clasificacion": "E",
+    "multijugador": true,
+    "rating": 4.0,
+    "descripcion1": "Simulación de fútbol con modos carrera, ultimate team y multijugador en línea.",
+    "descripcion2": "Amplia licencia de equipos y modos competitivos.",
+    "etiquetas": ["sports", "multiplayer", "competitive"],
+    "portada": "https://www.dondeir.com/wp-content/uploads/2022/07/portada-fifa-23-mbappe--570x427.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/3b/FIFA_23_screenshot1.jpg"
+    ],
+    "links": ["https://www.ea.com/games/fifa/fifa-23"],
+    "tiendas": ["Origin", "EA App", "Steam"]
+  },
+  {
+    "_id": "36",
+    "titulo": "The Elder Scrolls V: Skyrim",
+    "genero": "RPG / Open-world",
+    "plataforma": "PC / PS3 / PS4 / PS5 / Xbox 360 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "39.99",
+    "desarrollador": "Bethesda Game Studios",
+    "fecha_lanzamiento": "2011-11-11",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.6,
+    "descripcion1": "RPG épico en un mundo abierto con infinitas posibilidades y mods.",
+    "descripcion2": "Exploración, combate y creación de personajes profundos.",
+    "etiquetas": ["rpg", "open-world", "exploration"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPUm9anpa83o7kFgY34ZaGvd-XjSRBrWdqRg&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/6/6d/Skyrim_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/0/0a/Skyrim_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/72850/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
+    ],
+    "tiendas": ["Steam", "Microsoft Store"]
+  },
+  {
+    "_id": "37",
+    "titulo": "DOOM (2016)",
+    "genero": "Shooter / Action",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "19.99",
+    "desarrollador": "id Software",
+    "fecha_lanzamiento": "2016-05-13",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.4,
+    "descripcion1": "Reinició la franquicia con un shooter rápido y brutal.",
+    "descripcion2": "Combate agresivo enfocado en el movimiento y las armas clásicas.",
+    "etiquetas": ["shooter", "action", "singleplayer"],
+    "portada": "https://preview.redd.it/la-portada-del-doom-2016-es-dur%C3%ADsima-v0-6cizpgroovxe1.png?auto=webp&s=5cbfece8b03703732191fd2531054c4550d3262a",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/58/DOOM_2016_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/379720/DOOM/"],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "38",
+    "titulo": "Little Nightmares II",
+    "genero": "Puzzle / Adventure",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "29.99",
+    "desarrollador": "Tarsier Studios",
+    "fecha_lanzamiento": "2021-02-10",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.1,
+    "descripcion1": "Aventura atmosférica y oscura con puzzles y plataformas.",
+    "descripcion2": "Secuela que expande la narrativa inquietante y el diseño artístico.",
+    "etiquetas": ["puzzle", "story-rich", "singleplayer"],
+    "portada": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1819/m7gCTrMRQBTPHi87Mi3leVVY.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/9/98/Little_Nightmares_II_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/952500/Little_Nightmares_II/"
+    ],
+    "tiendas": ["Steam", "Epic Games Store"]
+  },
+  {
+    "_id": "39",
+    "titulo": "Rainbox Six Siege",
+    "genero": "Shooter / Tactical",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "19.99",
+    "desarrollador": "Ubisoft",
+    "fecha_lanzamiento": "2015-12-01",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 4.0,
+    "descripcion1": "Shooter táctico por equipos centrado en operadoress y estrategia.",
+    "descripcion2": "Partidas competitivas y escenas destructibles detalladas.",
+    "etiquetas": ["shooter", "competitive", "multiplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nnj6UWG5jGOAJlwtDM-LRc5A2R-YCkZ0NA&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/2/22/R6_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/359550/Rainbow_Six_Siege/"],
+    "tiendas": ["Steam", "Ubisoft Store"]
+  },
+  {
+    "_id": "40",
+    "titulo": "Terraria",
+    "genero": "Sandbox / Adventure",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch / Mobile",
+    "precio": "9.99",
+    "desarrollador": "Re-Logic",
+    "fecha_lanzamiento": "2011-05-16",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.5,
+    "descripcion1": "Exploración, construcción y combate en un mundo 2D con montones de contenido.",
+    "descripcion2": "Actualizaciones constantes y gran comunidad de mods.",
+    "etiquetas": ["sandbox", "exploration", "multiplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHOeWJlzizChon2dpD2KCGlkqUQpePwnV8g&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/56/Terraria_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/105600/Terraria/"],
+    "tiendas": ["Steam", "GOG", "Nintendo eShop"]
+  },
+  {
+    "_id": "41",
+    "titulo": "Shadow of the Colossus (Remake)",
+    "genero": "Action / Adventure",
+    "plataforma": "PS4 / PS5",
+    "precio": "29.99",
+    "desarrollador": "Bluepoint Games",
+    "fecha_lanzamiento": "2018-02-06",
+    "clasificacion": "T",
+    "multijugador": false,
+    "rating": 4.4,
+    "descripcion1": "Remake del clásico con batallas contra colosos y atmósfera melancólica.",
+    "descripcion2": "Jugabilidad centrada en exploración y épicos combates de jefes.",
+    "etiquetas": ["action", "singleplayer", "story-rich"],
+    "portada": "https://i.3djuegos.com/juegos/14999/shadow_of_the_colossus__2017_/fotos/ficha/shadow_of_the_colossus__2017_-3870229.webp",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/2/28/Shadow_of_the_Colossus_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.playstation.com/en-us/product/UP9000-CUSA06511_00-SHADOWCOLLOSSUS0"
+    ],
+    "tiendas": ["PlayStation Store"]
+  },
+  {
+    "_id": "42",
+    "titulo": "Sekiro: Shadows Die Twice",
+    "genero": "Action / Adventure",
+    "plataforma": "PC / PS4 / Xbox One",
+    "precio": "39.99",
+    "desarrollador": "FromSoftware",
+    "fecha_lanzamiento": "2019-03-22",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.6,
+    "descripcion1": "Juego de acción desafiante con énfasis en el parry y el combate preciso.",
+    "descripcion2": "Ambientado en un Japón samurái fantástico con jefes memorables.",
+    "etiquetas": ["soulslike", "action", "singleplayer"],
+    "portada": "https://image.api.playstation.com/vulcan/img/rnd/202010/1700/B66T6RbAfvIGjpEQxPq7k0Mu.png",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/30/Sekiro_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/"
+    ],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "43",
+    "titulo": "Death Stranding",
+    "genero": "Action / Adventure",
+    "plataforma": "PC / PS4 / PS5",
+    "precio": "49.99",
+    "desarrollador": "Kojima Productions",
+    "fecha_lanzamiento": "2019-11-08",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.0,
+    "descripcion1": "Aventura contemplativa con mecánicas de entrega y conexiones entre jugadores.",
+    "descripcion2": "Experiencia única centrada en narrativa y mundo misterioso.",
+    "etiquetas": ["narrative", "singleplayer", "exploration"],
+    "portada": "https://gorilagames.com/img/public/774b0f.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/8/82/Death_Stranding_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/1190460/Death_Stranding/"],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "44",
+    "titulo": "Sekiro",
+    "genero": "Action / Adventure",
+    "plataforma": "PC / PS4 / Xbox One",
+    "precio": "39.99",
+    "desarrollador": "FromSoftware",
+    "fecha_lanzamiento": "2019-03-22",
+    "clasificacion": "M",
+    "multijugador": false,
+    "rating": 4.6,
+    "descripcion1": "Juego de acción con énfasis en precisión y parry.",
+    "descripcion2": "Combate desafiante y diseño de enemigos únicos.",
+    "etiquetas": ["soulslike", "action", "singleplayer"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFYBtFlriRbGe2QwjxNatfKe9GC1HbmkQAw&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/30/Sekiro_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/"
+    ],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "45",
+    "titulo": "Borderlands 3",
+    "genero": "Shooter / RPG",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S",
+    "precio": "39.99",
+    "desarrollador": "Gearbox Software",
+    "fecha_lanzamiento": "2019-09-13",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 4.0,
+    "descripcion1": "Shooter en primera persona con loot masivo y estilo cómico.",
+    "descripcion2": "Campaña cooperativa y gran variedad de armas.",
+    "etiquetas": ["shooter", "multiplayer", "action"],
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4PPsYYL66OJdQdswCDI9TYKCANEUCFY4SXw&s",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/4/4a/Borderlands_3_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/397540/Borderlands_3/"],
+    "tiendas": ["Steam", "Epic Games Store"]
+  },
+  {
+    "_id": "46",
+    "titulo": "Sea of Thieves",
+    "genero": "Adventure / Multiplayer",
+    "plataforma": "PC / Xbox One / Xbox Series X|S",
+    "precio": "39.99",
+    "desarrollador": "Rare",
+    "fecha_lanzamiento": "2018-03-20",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 3.9,
+    "descripcion1": "Aventura cooperativa en alta mar con énfasis en exploración y combate naval.",
+    "descripcion2": "Experiencias emergentes y progresión social entre tripulaciones.",
+    "etiquetas": ["multiplayer", "exploration", "adventure"],
+    "portada": "https://i.3djuegos.com/juegos/12142/sea_of_thieves/fotos/ficha/sea_of_thieves-3475005.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/7/7e/Sea_of_Thieves_screenshot1.jpg"
+    ],
+    "links": ["https://www.seaofthieves.com/"],
+    "tiendas": ["Microsoft Store", "Steam"]
+  },
+  {
+    "_id": "47",
+    "titulo": "Ark: Survival Evolved",
+    "genero": "Survival / Sandbox",
+    "plataforma": "PC / PS4 / Xbox One / Switch",
+    "precio": "29.99",
+    "desarrollador": "Studio Wildcard",
+    "fecha_lanzamiento": "2017-08-29",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 3.8,
+    "descripcion1": "Supervivencia en mundo abierto con dinosaurios, construcción y tribus.",
+    "descripcion2": "Exploración, caza y domesticación en mundo peligroso.",
+    "etiquetas": ["survival", "sandbox", "multiplayer"],
+    "portada": "https://i.3djuegos.com/juegos/12016/ark_survival_evolved/fotos/ficha/ark_survival_evolved-3914996.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/5/55/ARK_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/"
+    ],
+    "tiendas": ["Steam", "Epic Games Store"]
+  },
+  {
+    "_id": "48",
+    "titulo": "Plants vs. Zombies: Battle for Neighborville",
+    "genero": "Shooter / Party",
+    "plataforma": "PC / PS4 / Xbox One / Switch",
+    "precio": "29.99",
+    "desarrollador": "PopCap Games",
+    "fecha_lanzamiento": "2019-10-18",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 3.6,
+    "descripcion1": "Shooter desenfadado con personajes de la franquicia Plants vs. Zombies.",
+    "descripcion2": "Modos cooperativos y competitivos para toda la familia.",
+    "etiquetas": ["shooter", "multiplayer", "family"],
+    "portada": "https://store-images.s-microsoft.com/image/apps.61874.66663660452837213.88feed53-4335-4b35-8a3a-476a0f0fd6ca.2fb76fcc-ce28-470d-b90d-e5285e6ed205",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/6/6e/PvZ_screenshot1.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/1108710/Plants_vs_Zombies_Battle_for_Neighborville/"
+    ],
+    "tiendas": ["Steam", "Xbox Store"]
+  },
+  {
+    "_id": "49",
+    "titulo": "Dota 2",
+    "genero": "MOBA / Competitive",
+    "plataforma": "PC",
+    "precio": "0.00",
+    "desarrollador": "Valve",
+    "fecha_lanzamiento": "2013-07-09",
+    "clasificacion": "T",
+    "multijugador": true,
+    "rating": 4.2,
+    "descripcion1": "MOBA profundo con estrategia en equipo y una escena competitiva enorme.",
+    "descripcion2": "Decenas de héroes, partidas estratégicas y actualizaciones frecuentes.",
+    "etiquetas": ["multiplayer", "competitive", "action"],
+    "portada": "https://i.pinimg.com/736x/d1/59/e9/d159e9ca272b73f56ef2b770a7c0b17b.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/4/4f/Dota_2_screenshot1.jpg"
+    ],
+    "links": ["https://store.steampowered.com/app/570/Dota_2/"],
+    "tiendas": ["Steam"]
+  },
+  {
+    "_id": "50",
+    "titulo": "Divinity: Original Sin 2",
+    "genero": "RPG / Strategy",
+    "plataforma": "PC / PS4 / PS5 / Xbox One / Xbox Series X|S / Switch",
+    "precio": "44.99",
+    "desarrollador": "Larian Studios",
+    "fecha_lanzamiento": "2017-09-14 (Early Access) | 2017-09-14 (Full)",
+    "clasificacion": "M",
+    "multijugador": true,
+    "rating": 4.8,
+    "descripcion1": "RPG táctico con combate por turnos y libertad narrativa.",
+    "descripcion2": "Gran profundidad de sistemas y cooperativo fino para varios jugadores.",
+    "etiquetas": ["rpg", "story-rich", "multiplayer"],
+    "portada": "https://i.3djuegos.com/juegos/12334/divinity_original_sin_ii/fotos/ficha/divinity_original_sin_ii-3914948.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/8/8b/DivinityOS2_screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/11/DivinityOS2_screenshot2.jpg"
+    ],
+    "links": [
+      "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2_Definitive_Edition/"
+    ],
+    "tiendas": ["Steam", "GOG"]
+  }
+]

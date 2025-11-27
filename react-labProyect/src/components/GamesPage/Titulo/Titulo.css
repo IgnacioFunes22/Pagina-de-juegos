@@ -1,0 +1,10 @@
+h1 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  color: var(--color-texto);
+}
+
+.encabezado {
+  display: flex;
+  justify-content: center;
+}

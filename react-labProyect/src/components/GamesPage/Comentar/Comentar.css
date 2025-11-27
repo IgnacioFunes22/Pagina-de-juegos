@@ -1,0 +1,37 @@
+.comBox {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  background-color: #f7f7f788;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+#comentario {
+  resize: none;
+  /* evita el redimensionado manual */
+  overflow-y: hidden;
+  /* oculta la barra mientras se expande */
+  min-height: 150px;
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  transition: height 0.2s ease;
+}
+
+#enviar {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#enviar:hover {
+  background-color: #2563eb;
+}

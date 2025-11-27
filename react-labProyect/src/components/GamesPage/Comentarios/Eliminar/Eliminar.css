@@ -1,0 +1,11 @@
+.delete {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete p {
+  margin-left: 10px;
+  margin-bottom: 0;
+}

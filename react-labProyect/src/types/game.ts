@@ -1,0 +1,20 @@
+export type game = {
+  _id: number;
+  titulo: string;
+  genero: string;
+  plataforma: string;
+  precio: number;
+  desarrollador: string;
+  fecha_lanzamiento: string;
+  clasificacion: string;
+  multijugador: boolean;
+  rating: number;
+  descripcion1: string;
+  descripcion2: string;
+  imgTexto: string;
+  etiquetas: string[];
+  portada: string;
+  imagenes: string[];
+  links: string[];
+  tiendas: string[];
+};

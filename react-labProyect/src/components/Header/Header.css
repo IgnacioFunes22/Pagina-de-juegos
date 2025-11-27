@@ -1,0 +1,83 @@
+:root {
+  --color-boton: (54, 148, 202);
+}
+
+header {
+  background-color: var(--color-pagina1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px 0;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.logo img {
+  width: 150px;
+  height: auto;
+}
+
+.nav-links ul {
+  list-style-type: none;
+}
+
+.nav-links li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.nav-links li:hover {
+  transform: scale(1.1);
+}
+
+.nav-links a {
+  font-size: 700;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: large;
+}
+
+.nav-links li a:hover {
+  color: yellow;
+}
+
+.derecha {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.logginOff {
+  display: none;
+}
+
+.logginOn {
+  display: block;
+}
+
+#formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+.enviar {
+  text-decoration: none;
+  background-color: var(--color-boton);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.enviar:hover {
+  background-color: rgb(54, 148, 202, 0.25);
+}
+
+.tituloLogin {
+  margin: 10px 0 0;
+}

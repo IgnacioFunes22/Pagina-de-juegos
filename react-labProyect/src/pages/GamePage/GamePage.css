@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Quicksand:wght@500;700&display=swap");
+
+:root {
+  --color-pagina1: rgb(54, 148, 202, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.Game-Page {
+  background-image: url(https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494048/wabe1_tjweyt.svg);
+  background-size: cover;
+  font-family: "Nunito Sans", sans-serif;
+
+  footer {
+    margin-top: 50px;
+  }
+
+  p {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #2a2a2a;
+    margin-bottom: 1rem;
+  }
+
+  .wrapper {
+    min-height: 100vh;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+
+  .GameMain {
+    flex: 6;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  article,
+  aside,
+  .div {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #imagen {
+    align-items: center;
+  }
+
+  .section1 {
+    display: flex;
+    align-items: start;
+  }
+
+  .section1-1 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 60%;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+  }
+
+  .section2 {
+    display: flex;
+    justify-content: left;
+  }
+
+  .section2 a {
+    padding-left: 10px;
+  }
+
+  .mainContent {
+    display: flex;
+    flex-direction: column;
+    background: rgba(51, 51, 238, 0.25);
+    max-width: 1400px;
+    margin: 0px auto;
+    transform: translateY(2em);
+    border-radius: 0.75rem;
+    box-shadow: rgba(243, 243, 245, 0.15) 0px 4px 16px 0px;
+    padding: 1rem;
+  }
+
+  .swiper-slide {
+    width: 100px;
+    height: 50px;
+  }
+
+  .imgTexto {
+    width: 100%;
+    max-height: 15%;
+  }
+
+  .adicional {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .adicional p {
+    margin: 20px;
+    margin-bottom: 0;
+  }
+
+  .section1-2 ul {
+    margin: 0;
+    list-style-type: none;
+    font-family: "Quicksand", sans-serif;
+    color: #2a2a2a;
+  }
+
+  .section1-2 li {
+    margin-bottom: 10px;
+  }
+}
