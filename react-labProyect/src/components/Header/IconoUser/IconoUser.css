@@ -1,0 +1,20 @@
+#iconoUser {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 50px;
+  max-height: 50px;
+  margin-right: 100px;
+}
+
+#iconoUser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#usuario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

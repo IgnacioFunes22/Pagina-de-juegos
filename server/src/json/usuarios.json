@@ -10,5 +10,17 @@
     "nombre": "paco",
     "email": "paco@gmail.com",
     "contraseña": "231412"
+  },
+  {
+    "id": 3,
+    "nombre": "juan",
+    "email": "juan@gmail.com",
+    "contraseña": "1234"
+  },
+  {
+    "id": 4,
+    "nombre": "pepe",
+    "email": "pepe@gmail.com",
+    "contraseña": "123"
   }
 ]

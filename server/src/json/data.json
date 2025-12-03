@@ -627,32 +627,6 @@
     "tiendas": ["Nintendo eShop"]
   },
   {
-    "_id": "10",
-    "titulo": "Super Mario Odyssey",
-    "genero": "Platform / Adventure",
-    "plataforma": "Nintendo Switch",
-    "precio": "59.99",
-    "desarrollador": "Nintendo EPD",
-    "fecha_lanzamiento": "2017-10-27",
-    "clasificacion": "E10+",
-    "multijugador": true,
-    "rating": 4.8,
-    "descripcion1": "Mario viaja por diversos mundos creativos para rescatar a la princesa Peach con su sombrero Cappy.",
-    "descripcion2": "Diversión explosiva, mundos de fantasía, toneladas de secretos, movimientos innovadores y modo cooperativo ligero.",
-    "etiquetas": ["adventure", "singleplayer", "creative"],
-    "portada": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
-    "imagenes": [
-      "https://upload.wikimedia.org/wikipedia/en/3/36/Super_Mario_Odyssey_Screenshot1.jpg",
-      "https://upload.wikimedia.org/wikipedia/en/c/cb/Super_Mario_Odyssey_Screenshot2.jpg",
-      "https://upload.wikimedia.org/wikipedia/en/1/17/Super_Mario_Odyssey_Screenshot3.jpg"
-    ],
-    "links": [
-      "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/",
-      "https://www.nintendo.com/es-ar/juegos/juegos-de-nintendo-switch/super-mario-odyssey-1442560.html"
-    ],
-    "tiendas": ["Nintendo eShop"]
-  },
-  {
     "_id": "734234",
     "titulo": "Grand Theft Auto V",
     "genero": "Action / Adventure",
@@ -1395,5 +1369,31 @@
       "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2_Definitive_Edition/"
     ],
     "tiendas": ["Steam", "GOG"]
+  },
+  {
+    "_id": "231241",
+    "titulo": "Super Mario Odyssey",
+    "genero": "Platform / Adventure",
+    "plataforma": "Nintendo Switch",
+    "precio": "59.99",
+    "desarrollador": "Nintendo EPD",
+    "fecha_lanzamiento": "2017-10-27",
+    "clasificacion": "E10+",
+    "multijugador": true,
+    "rating": 4.8,
+    "descripcion1": "Mario viaja por diversos mundos creativos para rescatar a la princesa Peach con su sombrero Cappy.",
+    "descripcion2": "Diversión explosiva, mundos de fantasía, toneladas de secretos, movimientos innovadores y modo cooperativo ligero.",
+    "etiquetas": ["adventure", "singleplayer", "creative"],
+    "portada": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+    "imagenes": [
+      "https://upload.wikimedia.org/wikipedia/en/3/36/Super_Mario_Odyssey_Screenshot1.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/c/cb/Super_Mario_Odyssey_Screenshot2.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/1/17/Super_Mario_Odyssey_Screenshot3.jpg"
+    ],
+    "links": [
+      "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/",
+      "https://www.nintendo.com/es-ar/juegos/juegos-de-nintendo-switch/super-mario-odyssey-1442560.html"
+    ],
+    "tiendas": ["Nintendo eShop"]
   }
 ]

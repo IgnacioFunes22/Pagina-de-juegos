@@ -11,13 +11,16 @@ function Registrarte() {
 
     const formData = new FormData(e.currentTarget);
     const datos = Object.fromEntries(formData);
+    const respuesta = await fetch(
+      "http://localhost:4000/api/usuario/nuevoUsuario",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(datos),
+      }
+    );
 
-    const respuesta = await fetch("/api/usuario/nuevoUsuario", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(datos),
-    });
-
+    console.log(respuesta);
     if (respuesta) {
       alert("Nuevo usuario registrado ✔️");
       navigate("/");

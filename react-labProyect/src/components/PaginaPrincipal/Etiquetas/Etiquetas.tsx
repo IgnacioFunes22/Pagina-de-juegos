@@ -1,18 +1,16 @@
 import { useEffect, useState } from "react";
-import { game } from "../../../types/game";
-import { etiqueta } from "../../../types/etiqueta";
 import "./Etiquetas.css";
 import { useFetch } from "../../../hooks/useFetch";
+import { colEtiqueta } from "../../../types/colEtiqueta";
 
 type Props = {
-  onClick: (data: game[]) => void;
-  onClick2: () => void;
+  onClick: (tag: string) => void;
 };
 
 const serverUrl = "http://localhost:4000/etiquetas/api/";
 
-export function Etiquetas({ onClick, onClick2 }: Props) {
-  const [dataArray, setDataArray] = useState<etiqueta[]>([]);
+export function Etiquetas({ onClick }: Props) {
+  const [dataArray, setDataArray] = useState<colEtiqueta>();
   const [isClicket, setIsClicket] = useState(false);
   const { data, loading } = useFetch(serverUrl);
 
@@ -28,16 +26,17 @@ export function Etiquetas({ onClick, onClick2 }: Props) {
       {loading && <p>Loading...</p>}
       <div onClick={handleClick}>Categorías</div>
       <ul className={`desplegable ${isClicket ? "mostrar" : "ocultar"}`}>
-        <li onClick={() => onClick2()}>
+        <li onClick={() => onClick("all")}>
           <p>Todos los Juegos</p>
         </li>
 
         {/* Render de etiquetas */}
-        {dataArray.map((elem) => (
-          <li key={elem.nombreEtiqueta} onClick={() => onClick(elem.data)}>
-            <p>{elem.nombreEtiqueta}</p>
-          </li>
-        ))}
+        {dataArray &&
+          dataArray.etiquetas.map((etiqueta: string) => (
+            <li key={etiqueta} onClick={() => onClick(etiqueta)}>
+              <p>{etiqueta}</p>
+            </li>
+          ))}
       </ul>
     </aside>
   );

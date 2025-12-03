@@ -59,7 +59,9 @@ function GamePage() {
                 ))}
             </article>
             <article>
-              {nameGame && <Comentarios gameName={nameGame} userName="Pepe" />}
+              {nameGame && (
+                <Comentarios gameName={nameGame} userName="Anonimus" />
+              )}
             </article>
           </div>
         </main>

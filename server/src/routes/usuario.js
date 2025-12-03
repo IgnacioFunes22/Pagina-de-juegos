@@ -2,52 +2,65 @@ const express = require("express");
 const router = express.Router();
 const fs = require("fs");
 
-const usuariosPath = "src/json/usuarios.json";
+const path = require("path");
+const usuariosPath = path.join(__dirname, "../json/usuarios.json");
+const colUsuarios = require("../json/usuarios.json");
 
 router.get("/v1/registrarse", (req, res) => {
   res.render("registrarUsuario");
 });
 
-// GET para buscar el usuario por nombre
-router.get("", (req, res) => {
-  const { nombre, password } = req.query;
+router.post("/login", (req, res) => {
+  try {
+    const { username, password } = req.body;
 
-  // Leer y parsear el archivo JSON
-  const data = fs.readFileSync(usuariosPath, "utf-8");
-  const usuarios = JSON.parse(data);
+    const rawData = fs.readFileSync(usuariosPath, "utf-8");
+    const usuarios = JSON.parse(rawData);
 
-  // Buscar por nombre (case insensitive)
-  const usuario = usuarios.find(
-    (user) =>
-      user.nombre.toLowerCase() === nombre.toLowerCase() &&
-      user.password === password
-  );
+    const usuario = usuarios.find(
+      (user) =>
+        user.nombre.toLowerCase() === username.toLowerCase() &&
+        user.contraseña === password
+    );
 
-  if (!usuario) {
-    return res.send(null);
+    if (!usuario) {
+      return res.json(null);
+    }
+
+    res.json({
+      username: usuario.nombre,
+      email: usuario.email,
+      id: usuario.id,
+    });
+  } catch (err) {
+    console.error("Error en /login:", err);
+    res.status(500).json(null);
   }
-
-  // Mostrar los datos
-  res.send(usuario);
 });
 
 // POST para guardar un nuevo usuario
 router.post("/nuevoUsuario", (req, res) => {
-  const data = fs.readFileSync(usuariosPath, "utf-8");
-  const usuarios = JSON.parse(data);
+  try {
+    const data = fs.readFileSync(usuariosPath, "utf-8");
+    const usuarios = JSON.parse(data);
 
-  const newUsuario = {
-    id: usuarios.length + 1,
-    nombre: req.body.username,
-    email: req.body.email,
-    contraseña: req.body.password,
-  };
+    const newUsuario = {
+      id: usuarios.length + 1,
+      nombre: req.body.username,
+      email: req.body.email,
+      contraseña: req.body.password,
+    };
+    console.log("Body: " + req.body);
+    usuarios.push(newUsuario);
+    console.log("col: " + usuarios);
 
-  usuarios.push(newUsuario);
+    fs.writeFileSync(usuariosPath, JSON.stringify(usuarios, null, 2), "utf-8");
 
-  fs.writeFileSync(usuariosPath, JSON.stringify(usuarios, null, 2), "utf-8");
-
-  res.post(true);
+    res.json(true);
+  } catch {
+    console.error("Error al añadir usuario");
+    res.status(500).send(null);
+  }
 });
 
 module.exports = router;

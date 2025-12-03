@@ -1,44 +1,23 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import "./HomePage.css";
 import { Header } from "../../components/Header/Header";
 import { Footer } from "../../components/Footer/Footer";
-import { GameButton } from "../../components/PaginaPrincipla/GameButton/GameButton";
-import { PasarPagina } from "../../components/PaginaPrincipla/PasarPagina/PasarPagina";
-import { Etiquetas } from "../../components/PaginaPrincipla/Etiquetas/Etiquetas";
-import { game } from "../../types/game";
-import { useFetch } from "../../hooks/useFetch";
-
-const serverUrl = "http://localhost:4000/games/api/";
+import { Etiquetas } from "../../components/PaginaPrincipal/Etiquetas/Etiquetas";
+import ViewGame from "../../components/PaginaPrincipal/ViewGame/ViewGame";
 
 function HomePage() {
-  const { data, loading } = useFetch(serverUrl);
-  const [backendData, setData] = useState<game[]>([]);
-  const [ininicio, setInicio] = useState(0);
-  const [restoreAll, setRestoreAll] = useState(false);
+  const [tag, setTag] = useState<string>("all");
 
-  useEffect(() => {
-    if (data) {
-      setData(data);
-    }
-  }, [restoreAll, data]);
-
-  const handleClick = () => setRestoreAll(!restoreAll);
   return (
     <div className="home-page">
       <Header />
-      {loading && <p>Loading...</p>}
       <main className="HomeMain">
         <section>
-          <Etiquetas onClick={setData} onClick2={handleClick} />
+          <Etiquetas onClick={setTag} />
         </section>
         <section>
           <h1 id="Titulo">Nuestras Reseñas</h1>
-
-          <GameButton data={backendData.slice(ininicio, ininicio + 10)} />
-          <PasarPagina
-            cantidad={Math.ceil(backendData.length / 10)}
-            masJuegos={setInicio}
-          />
+          <ViewGame tag={tag} />
         </section>
       </main>
       <Footer />

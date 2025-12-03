@@ -1,4 +1,4 @@
-import { game } from "../../../types/game";
+import { game } from "../../../../types/game";
 import { Rellenar } from "./Rellenar/Rellenar";
 import "./GameButton.css";
 import { Link } from "react-router-dom";

@@ -1,12 +1,13 @@
 import "./Comentar.css";
+import { comentario } from "../../../types/comentario";
 
 type Props = {
   nombreJuego: string;
   userName: string;
-  udateComments: () => void;
+  addComentario: (comments: comentario[]) => void;
 };
 
-function Comentar({ nombreJuego, userName, udateComments }: Props) {
+function Comentar({ nombreJuego, userName, addComentario }: Props) {
   const sendComment = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault(); // evita recarga
 
@@ -22,8 +23,10 @@ function Comentar({ nombreJuego, userName, udateComments }: Props) {
       body: JSON.stringify(datos),
     });
 
+    const comentarios = await respuesta.json();
+
     if (respuesta) {
-      udateComments();
+      addComentario(comentarios);
     } else {
       alert("Hubo un error al agrego un nuevo comentario ❌");
     }

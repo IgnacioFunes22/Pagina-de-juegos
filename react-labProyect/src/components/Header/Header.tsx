@@ -1,9 +1,13 @@
 import { Link } from "react-router-dom";
 import "./Header.css";
 import { useState } from "react";
+import Loggin from "./Loggin/Login";
+import { user } from "../../types/user";
+import IconoUser from "./IconoUser/IconoUser";
 
 export function Header() {
   const [mostrarForm, setMostrarForm] = useState(false);
+  const [usuario, setUsuario] = useState<user>();
 
   const handleClick = () => setMostrarForm(!mostrarForm);
   return (
@@ -20,6 +24,9 @@ export function Header() {
           </div>
         </section>
         <section className="derecha">
+          {usuario && (
+            <IconoUser nombre={usuario.nombre} email={usuario.email} />
+          )}
           <nav>
             <ul className="nav-links">
               <li>
@@ -39,40 +46,11 @@ export function Header() {
             </ul>
           </nav>
           <div className={`${mostrarForm ? "logginOn" : "logginOff"}`}>
-            <h3 className="tituloLogin">Iniciar sesion</h3>
-            <form id="formulario">
-              <label htmlFor="username">
-                <p>Nombre de Usuario</p>
-              </label>
-              <input type="text" id="username" name="username" required />
-              <label htmlFor="password">
-                <p>Contraseña</p>
-              </label>
-              <input type="password" id="password" name="password" required />
-              <button
-                className="enviar"
-                type="submit"
-                onClick={() => handleClick()}
-              >
-                Enviar
-              </button>
-            </form>
+            <Loggin setUser={setUsuario} />
           </div>
         </section>
       </header>
     </>
   );
 }
-
-/*
-<div logginOff>
-    <h6 className="tituloLogin">Iniciar sesion</h6>
-    <form id="formulario">
-            <label for="username"><p>Nombre de Usuario</p></label>
-            <input type="text" id="username" name="username" required>
-            <label for="password"><p>Contraseña</p></label>
-            <input type="password" id="password" name="password" required>
-            <button className="enviar" type="submit">Enviar</button>
-    </form>
-</div>
-*/
+/*  */

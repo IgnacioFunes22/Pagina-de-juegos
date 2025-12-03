@@ -1,0 +1,24 @@
+#formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 5px;
+}
+
+.enviar {
+  text-decoration: none;
+  background-color: var(--color-boton);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.enviar:hover {
+  background-color: rgb(54, 148, 202, 0.25);
+}
+
+.tituloLogin {
+  margin: 10px 0 0;
+}

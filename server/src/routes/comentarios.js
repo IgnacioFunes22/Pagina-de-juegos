@@ -38,10 +38,10 @@ router.post("/new", (req, res) => {
       "utf-8"
     );
 
-    res.send(true);
+    res.send(comentarios.filter((c) => c.gameName === req.body.gameName));
   } catch {
     console.error("Error al añadir comentario");
-    res.status(500).send("Error Fatal");
+    res.status(500).send(null);
   }
 });
 
@@ -64,7 +64,7 @@ router.delete("/delete", (req, res) => {
     res.send(true);
   } catch {
     console.error("Error al eliminar");
-    res.status(500).send("Error Fatal");
+    res.status(500).send(null);
   }
 });
 module.exports = router;

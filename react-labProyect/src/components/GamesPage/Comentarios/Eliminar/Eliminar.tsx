@@ -2,10 +2,10 @@ import "./Eliminar.css";
 
 type Props = {
   commentId: number;
-  udateComments: () => void;
+  deleteComentario: (id: number) => void;
 };
 
-function Eliminar({ commentId, udateComments }: Props) {
+function Eliminar({ commentId, deleteComentario }: Props) {
   const eliminarComentario = async () => {
     const datos = { commentId };
 
@@ -19,7 +19,7 @@ function Eliminar({ commentId, udateComments }: Props) {
     );
 
     if (respuesta) {
-      udateComments();
+      deleteComentario(commentId);
     } else {
       alert("Hubo un error al eliminar comentario ❌");
     }
@@ -27,11 +27,7 @@ function Eliminar({ commentId, udateComments }: Props) {
 
   return (
     <div>
-      <button
-        type="button"
-        className="btn btn-outline-danger delete"
-        onClick={eliminarComentario}
-      >
+      <button className="delete" onClick={eliminarComentario}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="16"

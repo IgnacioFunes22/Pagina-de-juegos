@@ -14,15 +14,7 @@ type Props = {
 
 function Comentarios({ gameName, userName }: Props) {
   const [comentarios, setComentarios] = useState<comentario[]>([]);
-  const [updateComments, setUdateComments] = useState(false);
   const { data, loading } = useFetch(serverUrl + gameName);
-
-  async function starFech() {
-    const controller = new AbortController();
-    fetch(serverUrl + gameName, { signal: controller.signal })
-      .then((res) => res.json())
-      .then((data) => setComentarios(data));
-  }
 
   useEffect(() => {
     if (data) {
@@ -30,12 +22,13 @@ function Comentarios({ gameName, userName }: Props) {
     }
   }, [data]);
 
-  useEffect(() => {
-    starFech();
-    setUdateComments(!updateComments);
-  }, [updateComments]);
+  const handleAddComentario = (comments: comentario[]) => {
+    setComentarios(comments);
+  };
 
-  const handleClick = () => setUdateComments(!updateComments);
+  const handleDeleteComentario = (id: number) => {
+    setComentarios(comentarios.filter((comment) => comment.id !== id));
+  };
 
   return (
     <>
@@ -44,7 +37,7 @@ function Comentarios({ gameName, userName }: Props) {
         <Comentar
           nombreJuego={gameName}
           userName={userName}
-          udateComments={handleClick}
+          addComentario={handleAddComentario}
         />
       </section>
       <section id="todasOpiniones"></section>
@@ -74,7 +67,10 @@ function Comentarios({ gameName, userName }: Props) {
                   />
                   <h3 id="nombreUsuario">{comment.userName}</h3>
                 </div>
-                <Eliminar commentId={comment.id} udateComments={handleClick} />
+                <Eliminar
+                  commentId={comment.id}
+                  deleteComentario={handleDeleteComentario}
+                />
               </section>
               <p>{comment.comment}</p>
             </>
