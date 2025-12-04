@@ -2,12 +2,9 @@ import { Link } from "react-router-dom";
 import "./Header.css";
 import { useState } from "react";
 import Loggin from "./Loggin/Login";
-import { user } from "../../types/user";
-import IconoUser from "./IconoUser/IconoUser";
 
 export function Header() {
   const [mostrarForm, setMostrarForm] = useState(false);
-  const [usuario, setUsuario] = useState<user>();
 
   const handleClick = () => setMostrarForm(!mostrarForm);
   return (
@@ -24,9 +21,6 @@ export function Header() {
           </div>
         </section>
         <section className="derecha">
-          {usuario && (
-            <IconoUser nombre={usuario.nombre} email={usuario.email} />
-          )}
           <nav>
             <ul className="nav-links">
               <li>
@@ -46,7 +40,7 @@ export function Header() {
             </ul>
           </nav>
           <div className={`${mostrarForm ? "logginOn" : "logginOff"}`}>
-            <Loggin setUser={setUsuario} />
+            <Loggin onClick={handleClick} />
           </div>
         </section>
       </header>

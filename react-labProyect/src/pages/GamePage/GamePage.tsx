@@ -4,8 +4,6 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { game } from "../../types/game";
 import Titulo from "../../components/GamesPage/Titulo/Titulo";
-import { Header } from "../../components/Header/Header";
-import { Footer } from "../../components/Footer/Footer";
 import Album from "../../components/GamesPage/Album/Album";
 import Descripcion from "../../components/GamesPage/Descripcion/Descripcion";
 import Comentarios from "../../components/GamesPage/Comentarios/Comentarios";
@@ -25,7 +23,6 @@ function GamePage() {
 
   return (
     <div className="Game-Page">
-      <Header />
       <div className="wrapper">
         {loading && "Cargando.."}
         <main className="GameMain">
@@ -58,15 +55,10 @@ function GamePage() {
                   </a>
                 ))}
             </article>
-            <article>
-              {nameGame && (
-                <Comentarios gameName={nameGame} userName="Anonimus" />
-              )}
-            </article>
+            <article>{nameGame && <Comentarios gameName={nameGame} />}</article>
           </div>
         </main>
       </div>
-      <Footer />
     </div>
   );
 }

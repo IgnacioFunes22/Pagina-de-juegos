@@ -24,7 +24,7 @@ router.post("/new", (req, res) => {
     const comentarios = JSON.parse(data);
 
     const newComment = {
-      id: comentarios.length + 1,
+      id: crypto.randomUUID(),
       gameName: req.body.gameName,
       userName: req.body.userName,
       comment: req.body.comment,
@@ -49,10 +49,11 @@ router.delete("/delete", (req, res) => {
   try {
     const data = fs.readFileSync(commentsPath, "utf-8");
     const comentarios = JSON.parse(data);
-    const commentId = Number(req.body.commentId);
+    const commentId = req.body.commentId;
+    const userName = req.body.userName;
 
     const newComentarios = comentarios.filter((comment) => {
-      return comment.id !== commentId;
+      return comment.id !== commentId && comment.userName !== userName;
     });
 
     fs.writeFileSync(

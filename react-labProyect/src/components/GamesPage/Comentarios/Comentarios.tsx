@@ -4,16 +4,18 @@ import "./Comentarios.css";
 import { comentario } from "../../../types/comentario";
 import Comentar from "../Comentar/Comentar";
 import Eliminar from "./Eliminar/Eliminar";
+import { user } from "../../../types/user";
 
 const serverUrl = "http://localhost:4000/comentarios/api/buscar/";
 
 type Props = {
   gameName: string;
-  userName: string;
 };
 
-function Comentarios({ gameName, userName }: Props) {
+function Comentarios({ gameName }: Props) {
   const [comentarios, setComentarios] = useState<comentario[]>([]);
+  const [user, setUser] = useState<user | null>(null);
+
   const { data, loading } = useFetch(serverUrl + gameName);
 
   useEffect(() => {
@@ -36,8 +38,9 @@ function Comentarios({ gameName, userName }: Props) {
       <section>
         <Comentar
           nombreJuego={gameName}
-          userName={userName}
           addComentario={handleAddComentario}
+          setUser={setUser}
+          user={user}
         />
       </section>
       <section id="todasOpiniones"></section>
@@ -53,8 +56,9 @@ function Comentarios({ gameName, userName }: Props) {
           </div>
         </section>
         <p>
-          Gran Juego 10/10 super recomendadisimo, Alta experiencia jugabilidad
-          10/10 historai 10/10 graficos 10/10(Lo mas importante) mejor que GTA6{" "}
+          Gran Juego 10/10 super recomendadisimo, Alta experiencia gato,
+          jugabilidad 10/10 historia 10/10 graficos 10/10(Lo mas importante)
+          mejor que GTA6{" "}
         </p>
         {comentarios &&
           comentarios.map((comment) => (
@@ -67,10 +71,13 @@ function Comentarios({ gameName, userName }: Props) {
                   />
                   <h3 id="nombreUsuario">{comment.userName}</h3>
                 </div>
-                <Eliminar
-                  commentId={comment.id}
-                  deleteComentario={handleDeleteComentario}
-                />
+                {user?.username === comment.userName && (
+                  <Eliminar
+                    commentId={comment.id}
+                    userName={comment.userName}
+                    deleteComentario={handleDeleteComentario}
+                  />
+                )}
               </section>
               <p>{comment.comment}</p>
             </>

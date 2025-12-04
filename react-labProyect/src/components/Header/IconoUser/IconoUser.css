@@ -2,19 +2,43 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 250px;
+  max-height: 100px;
   margin-right: 100px;
+  padding: 10px;
+  border-radius: 7%;
+  background-color: rgb(54, 148, 202, 0.5);
 }
 
-#iconoUser img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.userImg {
+  width: 50%;
+  height: 50%;
+}
+
+.userImg img {
+  max-width: 70%;
+  max-height: 70%;
 }
 
 #usuario {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.cerrarSecion {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  margin: 5px;
+  width: 100%;
+  background-color: red;
+  border-radius: 25%;
+  border: none;
+  transition: all 0s ease;
+}
+
+.cerrarSecion:hover {
+  background-color: rgba(255, 255, 255, 0.5);
 }

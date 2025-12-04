@@ -1,13 +1,15 @@
 import { useState } from "react";
 import "./Login.css";
 import { user } from "../../../types/user";
+import IconoUser from "../IconoUser/IconoUser";
 
 type Props = {
-  setUser: (usuario: user) => void;
+  onClick: () => void;
 };
 
-function Loggin({ setUser }: Props) {
+function Loggin({ onClick }: Props) {
   const [mostrarIcono, setIcono] = useState(false);
+  const [usuario, setUsuario] = useState<user>();
 
   const serchUser = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault(); // evita recarga
@@ -26,18 +28,28 @@ function Loggin({ setUser }: Props) {
       console.log("JSON recibido:", userData);
 
       sessionStorage.setItem("usuario", JSON.stringify(userData));
-      setUser(userData);
+      setUsuario(userData);
 
-      handleClick(!mostrarIcono);
+      setIcono(!mostrarIcono);
     } else {
       alert("Hubo un error al registrar el usuario ❌");
     }
   };
 
-  const handleClick = (val: boolean) => setIcono(val);
+  const handleClick = () => {
+    onClick();
+    setIcono(!mostrarIcono);
+  };
 
   return (
     <>
+      {usuario && mostrarIcono && (
+        <IconoUser
+          nombre={usuario.username}
+          email={usuario.email}
+          onClick={() => handleClick()}
+        />
+      )}
       <div className={mostrarIcono ? "logginOff" : "logginOn"}>
         <h3 className="tituloLogin">Iniciar sesion</h3>
         <form id="formulario" onSubmit={serchUser}>

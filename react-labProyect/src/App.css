@@ -1,0 +1,13 @@
+.bg-home {
+  background-image: url(https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494057/wabe2.svg);
+  background-size: cover;
+}
+
+.bg-game {
+  background-image: url(https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494048/wabe1_tjweyt.svg);
+  background-size: cover;
+}
+
+.bg-contacto {
+  background: #2c3e50;
+}

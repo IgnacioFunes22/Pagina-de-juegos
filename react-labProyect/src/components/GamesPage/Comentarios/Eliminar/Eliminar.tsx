@@ -3,11 +3,12 @@ import "./Eliminar.css";
 type Props = {
   commentId: number;
   deleteComentario: (id: number) => void;
+  userName: string;
 };
 
-function Eliminar({ commentId, deleteComentario }: Props) {
+function Eliminar({ commentId, deleteComentario, userName }: Props) {
   const eliminarComentario = async () => {
-    const datos = { commentId };
+    const datos = { commentId, userName };
 
     const respuesta = await fetch(
       "http://localhost:4000/comentarios/api/delete/",

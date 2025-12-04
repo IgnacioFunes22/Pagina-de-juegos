@@ -1,5 +1,3 @@
-import { Footer } from "../../components/Footer/Footer";
-import { Header } from "../../components/Header/Header";
 import "./Registrarte.css";
 import { useNavigate } from "react-router-dom";
 
@@ -31,7 +29,6 @@ function Registrarte() {
 
   return (
     <div className="registrarBody">
-      <Header />
       <main>
         <article className="contenedor">
           <h1 className="titulo">Crea tu Usuario</h1>
@@ -58,7 +55,6 @@ function Registrarte() {
           </form>
         </article>
       </main>
-      <Footer />
     </div>
   );
 }

@@ -5,8 +5,6 @@
 }
 
 .registrarBody {
-  background-image: url(https://res.cloudinary.com/dchhrtqvv/image/upload/v1761494057/wabe2.svg);
-  background-size: cover;
   font-family: "Nunito Sans", sans-serif;
   display: flex;
   flex-direction: column;
